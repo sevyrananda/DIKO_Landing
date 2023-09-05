@@ -1,7 +1,7 @@
 running :
-composer install
-php artisan key:generate
-php artisan serve
+# composer install
+# php artisan key:generate
+# php artisan serve
 
 
 
