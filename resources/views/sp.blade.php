@@ -559,7 +559,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-1.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
@@ -577,7 +577,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-2.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/kas.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
@@ -595,14 +595,14 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-3.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/jadwal angsuran.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
                 <i class="bi bi-chart-bar"></i> <!-- Ikon grafik batang -->
               </div>
               <a href="#" class="stretched-link">
-                <h3>Grafik</h3>
+                <h3>Jadwal Angsuran</h3>
               </a>
               <p> Visualisasi data, pola, dan tren. Membantu pengambilan keputusan dan presentasi yang efektif.</p>
             </div>
@@ -612,14 +612,14 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-4.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/buku simpanan.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Asperiores Commodit</h3>
+                <h3>Buku Simpanan</h3>
               </a>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident
                 adipisci neque.</p>
@@ -631,14 +631,14 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-5.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/cetak bilyet.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
                 <i class="bi bi-calendar4-week"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Velit Doloremque</h3>
+                <h3>Bilyet Simpanan Berjangka</h3>
               </a>
               <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at
                 autem alias eius labore.</p>
@@ -650,14 +650,14 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-6.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/laporan.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
                 <i class="bi bi-chat-square-text"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Dolori Architecto</h3>
+                <h3>Laporan</h3>
               </a>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti
                 recusandae ducimus enim.</p>
