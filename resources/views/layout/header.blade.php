@@ -1,5 +1,5 @@
  <!-- ======= Header ======= -->
- <header id="header" class="header fixed-top" data-scrollto-offset="0">
+ <header id="header" class="header fixed-top"  style="background-color:#C3E2FF;" data-scrollto-offset="0">
     <div class="container-fluid d-flex align-items-center justify-content-between">
 
       <a href="" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
@@ -17,10 +17,10 @@
         <ul>
           <li><a class="nav-link scrollto" href="index.html#about" >Beranda</a></li>
           <li><a class="nav-link scrollto" href="index.html#features">Fitur</a></li>
-          <li><a class="nav-link scrollto" href="index.html#pricing">Harga</a></li>
           <!-- <li><a class="nav-link scrollto" href="index.html#team">Blog</a></li> -->
           <!-- <li><a href="blog.html">Blog</a></li> -->
           <li><a class="nav-link scrollto" href="index.html#testimonials">Testimonial</a></li>
+          <li><a class="nav-link scrollto" href="index.html#pricing">Harga</a></li>
           <li><a class="nav-link scrollto" href="index.html#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
