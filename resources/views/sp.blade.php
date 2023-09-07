@@ -5,13 +5,11 @@
   <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out" style="color : #0C356A;">
     <!-- <img src="assets/img/hero-carousel/hero-carousel-3.svg" class="img-fluid animated"> -->
     <p style="font-size: 15px; font-stretch: expanded;">
-      SOFTWARE MICROFINANCE & BISNIS TERBAIK
+     
     </p>
     <p style="font-size: 45px; font-weight: bold; ">
-      Kelola Pinjaman dan Laporan Keuangan dengan Lebih Mudah!</p>
-    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;">Terintegrasi dengan Inventori,
-      Proyek, dan
-      Penggajian.</p>
+    Revolutionize your accounting management with our smarter, faster solution.</p>
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;">Integrasi canggih: Inventori, Proyek, dan Penggajian, semua dalam satu solusi andal!</p>
     <div class="d-flex">
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
       <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch
@@ -315,7 +313,7 @@
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
             <!-- <i class="bi bi-box-seam color-indigo"></i> -->
             <img src="{{url('HeroBiz')}}/shield.png" alt="monitor" width="50" height="50">
-            <h4>Safaty</h4>
+            <h4>Safety</h4>
           </a>
         </li><!-- End Tab 2 Nav -->
 
@@ -550,10 +548,9 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
-        <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 500;">Kami Hadir dengan Fitur-Fitur
-          Terbaik yang Akan Memudahkan Langkah Bisnis Anda</h2>
-        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 16px; color: #666;">Dengan berbagai
-          fitur canggih, kami siap membantu kesuksesan bisnis Anda.</p>
+        <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 500;">Fitur-fitur terbaik kami akan mempermudah bisnis Anda.</h2>
+        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 16px; color: #666;">Perhitungan Akurat,
+          Keputusan Bijak, Produk Akuntansi Terpercaya</p>
       </div>
 
       <div class="row gy-5">
@@ -606,7 +603,7 @@
               <a href="#" class="stretched-link">
                 <h3>Jadwal Angsuran</h3>
               </a>
-              <p> Visualisasi data, pola, dan tren. Membantu pengambilan keputusan dan presentasi yang efektif.</p>
+              <p> Merencanakan jadwal pembayaran, ketepatan pembayaran dan transparasi berapa total jumlah yang harus dibayarkan selama masa pinjaman</p>
             </div>
           </div>
         </div><!-- End Service Item -->
@@ -623,8 +620,7 @@
               <a href="#" class="stretched-link">
                 <h3>Buku Simpanan</h3>
               </a>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident
-                adipisci neque.</p>
+              <p>Membantu nasabah dalam mengelola dan mengoptimalkan simpanan mereka serta memberikan visibilitas yang lebih baik tentang kondisi keuangan</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div>
@@ -642,8 +638,7 @@
               <a href="#" class="stretched-link">
                 <h3>Bilyet Simpanan Berjangka</h3>
               </a>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at
-                autem alias eius labore.</p>
+              <p>Mencatat detail penting dari simpanan berjangka, termasuk jumlah setoran, tingkat bunga, tanggal jatuh tempo, dan informasi identifikasi nasabah</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div>
@@ -661,8 +656,7 @@
               <a href="#" class="stretched-link">
                 <h3>Laporan</h3>
               </a>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti
-                recusandae ducimus enim.</p>
+              <p>Membantu bisnis dalam melacak pendapatan, biaya, laba, dan arus kas</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div>
@@ -1245,54 +1239,62 @@
   <section id="contact" class="contact">
     <div class="container">
       <div class="section-header">
-        <h2>KONTAK</h2>
-        <p> Kami senang mendengar dari Anda dan siap membantu menjawab pertanyaan, menyediakan dukungan, atau menerima umpan balik yang berharga. Kami berkomitmen untuk memberikan layanan pelanggan yang luar biasa, dan Anda adalah prioritas kami.</p>
+        <h2>Contact</h2>
+        <p>Hubungi Kontak dibawah ini</p>
       </div>
     </div>
-
-    <div class="map">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div><!-- End Google Maps -->
 
     <div class="container">
-      <div class="row gy-5 gx-lg-5">
-        <div class="col-lg-4">
-          <div class="info">
+      <div class="row gy-5">
+        <div class="col-lg-6">
+          <div class="card flex-fill shadow p-3">
+            <div class="card-body">
+              <h3>More Info</h3>
+              <p>Hubungi Kami dibawah ini</p>
+              <br>
+              <div class="info-item d-flex">
+                <i class="bi bi-geo-alt flex-shrink-0"></i>
+                <div>
+                  <h4>Alamat:</h4>
+                  <p>Office : JL. Bulu Mas II No. 1 - Kanigoro - Kota Madiun - Jawa Timur<br><br>
+                    Branch Office : Perum Griya Gadang Sejahtera Kav. 14 Gadang - Sukun - Kota Malang - Jawa Timur </p>
+                </div>
+              </div><!-- End Info Item -->
 
-            <!-- <p>Et id eius voluptates atque nihil voluptatem enim in tempore minima sit ad mollitia commodi minus.</p> -->
+              <div class="info-item d-flex">
+                <i class="bi bi-envelope flex-shrink-0"></i>
+                <div>
+                  <h4>Alamat Email:</h4>
+                  <p>cs@marstech.co.id</p>
+                </div>
+              </div><!-- End Info Item -->
 
-            <div class="info-item d-flex">
-              <i class="bi bi-geo-alt flex-shrink-0"></i>
-              <div>
-                <h4>Alamat:</h4>
-
-                <p>Office : JL. Bulu Mas II No. 1 - Kanigoro - Kota Madiun - Jawa Timur<br><br>
-                  Branch Office : Perum Griya Gadang Sejahtera Kav. 14 Gadang - Sukun - Kota Malang - Jawa Timur </p>
-              </div>
-            </div><!-- End Info Item -->
-
-            <div class="info-item d-flex">
-              <i class="bi bi-envelope flex-shrink-0"></i>
-              <div>
-                <h4>Alamat Email:</h4>
-                <p>cs@marstech.co.id</p>
-              </div>
-            </div><!-- End Info Item -->
-
-            <div class="info-item d-flex">
-              <i class="bi bi-phone flex-shrink-0"></i>
-              <div>
-                <h4>Nomor Telepon:</h4>
-                <p>Office : 0351-2812555<br>
-                  Marketing : 0811-3636-09 </p>
-              </div>
-            </div><!-- End Info Item -->
+              <div class="info-item d-flex">
+                <i class="bi bi-phone flex-shrink-0"></i>
+                <div>
+                  <h4>Nomor Telepon:</h4>
+                  <p>Office : 0351-2812555<br>
+                    Marketing : 0811-3636-09 </p>
+                </div>
+              </div><!-- End Info Item -->
+            </div>
           </div>
         </div>
-      </div>
 
+        <div class="col-lg-6">
+          <!-- <div class="card flex-fill shadow"> -->
+            <div class="card-body">
+              <div class="map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div><!-- End Google Maps -->
+            </div>
+          <!-- </div> -->
+        </div>
+      </div>
     </div>
   </section><!-- End Contact Section -->
+
+</main><!-- End #main -->
 
 </main><!-- End #main -->
 
