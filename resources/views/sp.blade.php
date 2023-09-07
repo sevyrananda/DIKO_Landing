@@ -868,7 +868,7 @@
         <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
           <div class="content px-xl-5">
-            <h3>Frequently Asked <strong>Questions</strong></h3>
+            <h3><strong>Pertanyaan</strong> yang sering diajukan</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
               dolore magna aliqua. Duis aute irure dolor in reprehenderit
@@ -881,13 +881,13 @@
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
                   <i class="bi bi-question-circle question-icon"></i>
-                  Non consectetur a erat nam at lectus urna duis?
+                  Apa itu DIKO?
                 </button>
               </h3>
               <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur
-                  gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                DIKO merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak 
+                yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.
                 </div>
               </div>
             </div><!-- # Faq item-->
@@ -896,14 +896,13 @@
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                   <i class="bi bi-question-circle question-icon"></i>
-                  Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
+                  Apa manfaat menggunakan DIKO?
                 </button>
               </h3>
               <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id
-                  donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque
-                  elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                Menggunakan DIKO dapat membantu koperasi meningkatkan efisiensi pengelolaan keuangan, 
+                memperbaiki pelayanan kepada anggota, dan mengurangi potensi kesalahan dalam pencatatan transaksi.
                 </div>
               </div>
             </div><!-- # Faq item-->
@@ -912,15 +911,13 @@
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
                   <i class="bi bi-question-circle question-icon"></i>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
+                  Bagaimana cara mendaftar sebagai anggota koperasi melalui sistem aplikasi ini?
                 </button>
               </h3>
               <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar
-                  elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque
-                  eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis
-                  sed odio morbi quis
+                Untuk mendaftar sebagai anggota koperasi, Anda perlu menghubungi pengelola koperasi Anda. 
+                Mereka akan memberikan panduan langkah demi langkah tentang cara mendaftar dan menggunakan sistem aplikasi.
                 </div>
               </div>
             </div><!-- # Faq item-->
@@ -929,15 +926,14 @@
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
                   <i class="bi bi-question-circle question-icon"></i>
-                  Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                  Apakah sistem ini aman digunakan?
                 </button>
               </h3>
               <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
                   <i class="bi bi-question-circle question-icon"></i>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id
-                  donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque
-                  elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  Ya, kami telah mengimplementasikan berbagai lapisan keamanan, termasuk enkripsi data, 
+                  otentikasi dua faktor, dan pengawasan akses, untuk menjaga data Anda tetap aman.
                 </div>
               </div>
             </div><!-- # Faq item-->
@@ -946,14 +942,86 @@
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
                   <i class="bi bi-question-circle question-icon"></i>
-                  Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+                  Apakah saya dapat melihat saldo dan riwayat transaksi saya melalui DIKO?
                 </button>
               </h3>
               <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in.
-                  Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est.
-                  Purus gravida quis blandit turpis cursus in
+                Ya, Anda dapat mengakses saldo dan riwayat transaksi Anda melalui akun anggota Anda di sistem aplikasi.
+                </div>
+              </div>
+            </div><!-- # Faq item-->
+
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+              <h3 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                  <i class="bi bi-question-circle question-icon"></i>
+                  Bagaimana saya dapat mengajukan pinjaman melalui DIKO?
+                </button>
+              </h3>
+              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                <div class="accordion-body">
+                Anda dapat mengajukan pinjaman melalui sistem aplikasi dengan mengisi formulir pinjaman 
+                yang tersedia dalam akun anggota Anda dan mengikuti petunjuk yang diberikan.
+                </div>
+              </div>
+            </div><!-- # Faq item-->
+
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+              <h3 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                  <i class="bi bi-question-circle question-icon"></i>
+                  Bagaimana jika saya lupa kata sandi akun saya?
+                </button>
+              </h3>
+              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                <div class="accordion-body">
+                Anda dapat mengikuti prosedur pemulihan kata sandi yang ada di sistem aplikasi 
+                atau menghubungi pengelola koperasi untuk membantu Anda mengatasi masalah ini.
+                </div>
+              </div>
+            </div><!-- # Faq item-->
+
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+              <h3 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                  <i class="bi bi-question-circle question-icon"></i>
+                  Apakah saya dapat mengakses DIKO melalui perangkat seluler?
+                </button>
+              </h3>
+              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                <div class="accordion-body">
+                Ya, sistem aplikasi kami umumnya dapat diakses melalui perangkat seluler seperti smartphone atau tablet dengan mudah.
+                </div>
+              </div>
+            </div><!-- # Faq item-->
+
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+              <h3 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                  <i class="bi bi-question-circle question-icon"></i>
+                  Bagaimana jika saya memiliki pertanyaan lebih lanjut atau masalah teknis?
+                </button>
+              </h3>
+              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                <div class="accordion-body">
+                Jangan ragu untuk menghubungi tim dukungan kami melalui informasi kontak yang tersedia di situs web kami. 
+                Kami akan dengan senang hati membantu Anda.
+                </div>
+              </div>
+            </div><!-- # Faq item-->
+
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+              <h3 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                  <i class="bi bi-question-circle question-icon"></i>
+                  Bagaimana cara mengajukan saran atau masukan untuk meningkatkan DIKO?
+                </button>
+              </h3>
+              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                <div class="accordion-body">
+                Kami selalu mendengar masukan dari pengguna kami. Anda dapat mengirimkan saran atau masukan melalui formulir 
+                yang disediakan di situs web kami atau menghubungi pengelola koperasi Anda.
                 </div>
               </div>
             </div><!-- # Faq item-->
