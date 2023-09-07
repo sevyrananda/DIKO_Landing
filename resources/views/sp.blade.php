@@ -5,20 +5,18 @@
   <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out" style="color : #0C356A;">
     <!-- <img src="assets/img/hero-carousel/hero-carousel-3.svg" class="img-fluid animated"> -->
     <p style="font-size: 15px; font-stretch: expanded;">
-      SOFTWARE MICROFINANCE & BISNIS TERBAIK
+     
     </p>
-    <p style="font-size: 45px; font-weight: bold; position:relative; margin-bottom:20px;">
-      Kelola Pinjaman dan Laporan Keuangan dengan Lebih Mudah!</p>
-    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;">Terintegrasi dengan Inventori,
-      Proyek, dan
-      Penggajian.</p>
+    <p style="font-size: 45px; font-weight: bold; ">
+    Revolutionize your accounting management with our smarter, faster solution.</p>
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;">Integrasi canggih: Inventori, Proyek, dan Penggajian, semua dalam satu solusi andal!</p>
     <div class="d-flex">
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
       <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch
           Video</span></a>
     </div>
     <div>
-      <img src="HeroBiz/assets/img/diko-sp-2.png" alt="" width="900px">
+      <img src="HeroBiz/assets/img/diko-sp.png" alt="">
     </div>
   </div>
 </section>
@@ -380,7 +378,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid" style="width: 250px">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 1 -->
@@ -413,7 +411,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid" style="width: 250px">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 2 -->
@@ -442,7 +440,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid" style="width: 250px">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 3 -->
@@ -471,7 +469,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid" style="width: 250px">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 4 -->
@@ -550,10 +548,9 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
-        <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 500;">Kami Hadir dengan Fitur-Fitur
-          Terbaik yang Akan Memudahkan Langkah Bisnis Anda</h2>
-        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 16px; color: #666;">Dengan berbagai
-          fitur canggih, kami siap membantu kesuksesan bisnis Anda.</p>
+        <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 500;">Fitur-fitur terbaik kami akan mempermudah bisnis Anda.</h2>
+        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 16px; color: #666;">Perhitungan Akurat,
+          Keputusan Bijak, Produk Akuntansi</p>
       </div>
 
       <div class="row gy-5">
@@ -561,7 +558,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-1.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
@@ -579,7 +576,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-2.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/kas.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
@@ -597,16 +594,16 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-3.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/jadwal angsuran.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
                 <i class="bi bi-chart-bar"></i> <!-- Ikon grafik batang -->
               </div>
               <a href="#" class="stretched-link">
-                <h3>Grafik</h3>
+                <h3>Jadwal Angsuran</h3>
               </a>
-              <p> Visualisasi data, pola, dan tren. Membantu pengambilan keputusan dan presentasi yang efektif.</p>
+              <p> Merencanakan jadwal pembayaran, ketepatan pembayaran dan transparasi berapa total jumlah yang harus dibayarkan selama masa pinjaman</p>
             </div>
           </div>
         </div><!-- End Service Item -->
@@ -614,17 +611,16 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-4.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/buku simpanan.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Asperiores Commodit</h3>
+                <h3>Buku Simpanan</h3>
               </a>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident
-                adipisci neque.</p>
+              <p>Membantu nasabah dalam mengelola dan mengoptimalkan simpanan mereka serta memberikan visibilitas yang lebih baik tentang kondisi keuangan</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div>
@@ -633,17 +629,16 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-5.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/cetak bilyet.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
                 <i class="bi bi-calendar4-week"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Velit Doloremque</h3>
+                <h3>Bilyet Simpanan Berjangka</h3>
               </a>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at
-                autem alias eius labore.</p>
+              <p>Mencatat detail penting dari simpanan berjangka, termasuk jumlah setoran, tingkat bunga, tanggal jatuh tempo, dan informasi identifikasi nasabah</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div>
@@ -652,17 +647,16 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
           <div class="service-item">
             <div class="img">
-              <img src="{{url('HeroBiz')}}/assets/img/services-6.jpg" class="img-fluid" alt="">
+              <img src="{{url('HeroBiz')}}/assets/img/laporan.jpg" class="img-fluid" alt="">
             </div>
             <div class="details position-relative">
               <div class="icon">
                 <i class="bi bi-chat-square-text"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Dolori Architecto</h3>
+                <h3>Laporan</h3>
               </a>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti
-                recusandae ducimus enim.</p>
+              <p>Membantu bisnis dalam melacak pendapatan, biaya, laba, dan arus kas</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div>
@@ -1318,7 +1312,6 @@
       </div>
     </div>
 
-<div>
     <div class="map">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div><!-- End Google Maps -->
