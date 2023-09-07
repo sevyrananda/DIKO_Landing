@@ -74,28 +74,28 @@
       <ul class="nav nav-tabs row gy-4 d-flex justify-content-center">
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
-            <i class="bi bi-binoculars color-cyan"></i>
+            <i class="bi bi-braces-asterisk color-cyan"></i>
             <h4>Integrated</h4>
           </a>
         </li><!-- End Tab 1 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-            <i class="bi bi-box-seam color-indigo"></i>
-            <h4>Safaty</h4>
+            <i class="bi bi-shield-check color-teal"></i>
+            <h4>Safety</h4>
           </a>
         </li><!-- End Tab 2 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-            <i class="bi bi-brightness-high color-teal"></i>
+            <i class="bi bi-binoculars color-indigo"></i>
             <h4>Monitoring</h4>
           </a>
         </li><!-- End Tab 3 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-            <i class="bi bi-command color-red"></i>
+            <i class="bi bi-clock-history color-red"></i>
             <h4>Realtime</h4>
           </a>
         </li><!-- End Tab 4 Nav -->
@@ -113,7 +113,7 @@
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center" data-aos="fade-up" data-aos-delay="200">
-              <img src="{{ asset('HeroBiz/assets/img/features-1.svg') }}" alt="" class="img-fluid">
+              <img src="{{ asset('HeroBiz/assets/img/new-features-1.png') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 1 -->
@@ -129,7 +129,7 @@
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">
-              <img src="{{ asset('HeroBiz/assets/img/features-2.svg') }}" alt="" class="img-fluid">
+              <img src="{{ asset('HeroBiz/assets/img/new-features-2.png') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 2 -->
@@ -144,7 +144,7 @@
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">
-              <img src="{{ asset('HeroBiz/assets/img/features-3.svg') }}" alt="" class="img-fluid">
+              <img src="{{ asset('HeroBiz/assets/img/new-features-3.png') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 3 -->
@@ -159,7 +159,7 @@
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">
-              <img src="{{ asset('HeroBiz/assets/img/features-4.svg') }}" alt="" class="img-fluid">
+              <img src="{{ asset('HeroBiz/assets/img/new-features-4.png') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 4 -->

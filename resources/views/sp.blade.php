@@ -299,32 +299,32 @@
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
-            <!-- <i class="bi bi-binoculars color-cyan"></i> -->
-            <img src="{{url('HeroBiz')}}/integration.png" alt="integration" width="50" height="50">
+          <i class="bi bi-braces-asterisk color-cyan"></i>
+            <!-- <img src="{{url('HeroBiz')}}/integration.png" alt="integration" width="50" height="50"> -->
             <h4>Integrated</h4>
           </a>
         </li><!-- End Tab 1 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-            <!-- <i class="bi bi-box-seam color-indigo"></i> -->
-            <img src="{{url('HeroBiz')}}/shield.png" alt="monitor" width="50" height="50">
+          <i class="bi bi-shield-check color-teal"></i>
+            <!-- <img src="{{url('HeroBiz')}}/shield.png" alt="monitor" width="50" height="50"> -->
             <h4>Safety</h4>
           </a>
         </li><!-- End Tab 2 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-            <!-- <i class="bi bi-brightness-high color-teal"></i> -->
-            <img src="{{url('HeroBiz')}}/monitor.png" alt="monitor" width="50" height="50">
+          <i class="bi bi-binoculars color-indigo"></i>
+            <!-- <img src="{{url('HeroBiz')}}/monitor.png" alt="monitor" width="50" height="50"> -->
             <h4>Monitoring</h4>
           </a>
         </li><!-- End Tab 3 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-            <!-- <i class="bi bi-command color-red"></i> -->
-            <img src="{{url('HeroBiz')}}/stopwatch.png" alt="monitor" width="50" height="50">
+          <i class="bi bi-clock-history color-red"></i>
+            <!-- <img src="{{url('HeroBiz')}}/stopwatch.png" alt="monitor" width="50" height="50"> -->
             <h4>RealTime</h4>
           </a>
         </li><!-- End Tab 4 Nav -->
@@ -374,7 +374,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid" style="width:250px">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid" style="width:200px">
             </div>
           </div>
         </div><!-- End Tab Content 1 -->
@@ -407,7 +407,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid" style="width:250px">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid" style="width:200px">
             </div>
           </div>
         </div><!-- End Tab Content 2 -->
@@ -436,7 +436,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid" style="width:250px">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid" style="width:200px">
             </div>
           </div>
         </div><!-- End Tab Content 3 -->
@@ -465,7 +465,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid" style="width:250px">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid" style="width:200px">
             </div>
           </div>
         </div><!-- End Tab Content 4 -->
@@ -942,7 +942,7 @@
               </div>
             </div><!-- # Faq item-->
 
-            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="700">
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-6">
                   <i class="bi bi-question-circle question-icon"></i>
@@ -957,7 +957,7 @@
               </div>
             </div><!-- # Faq item-->
 
-            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="800">
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-7">
                   <i class="bi bi-question-circle question-icon"></i>
@@ -972,7 +972,7 @@
               </div>
             </div><!-- # Faq item-->
 
-            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="900">
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-8">
                   <i class="bi bi-question-circle question-icon"></i>
@@ -986,7 +986,7 @@
               </div>
             </div><!-- # Faq item-->
 
-            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="1000">
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-9">
                   <i class="bi bi-question-circle question-icon"></i>
@@ -1001,7 +1001,7 @@
               </div>
             </div><!-- # Faq item-->
 
-            <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+            <div class="accordion-item" data-aos="fade-up" data-aos-delay="1100">
               <h3 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-10">
                   <i class="bi bi-question-circle question-icon"></i>
