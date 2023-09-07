@@ -12,11 +12,13 @@
     <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;">Terintegrasi dengan Inventori,
       Proyek, dan
       Penggajian.</p>
-    <p>#FeelTheProsperity.</p>
     <div class="d-flex">
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
       <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch
           Video</span></a>
+    </div>
+    <div>
+      <img src="HeroBiz/assets/img/diko-sp.png" alt="">
     </div>
   </div>
 </section>
@@ -378,7 +380,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
 
-              <img src="{{url('HeroBiz')}}/assets/img/features-3.svg" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 1 -->
@@ -411,7 +413,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/features-1.svg" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 2 -->
@@ -440,7 +442,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
 
-              <img src="{{url('HeroBiz')}}/assets/img/features-2.svg" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 3 -->
@@ -469,7 +471,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/features-4.svg" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 4 -->
