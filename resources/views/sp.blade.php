@@ -89,12 +89,8 @@
       <div class="section-header">
         <h2 style=" font-family: Verdana, Geneva, Tahoma, sans-serif;">About Us</h2>
         <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
-          Selamat datang di Layanan Simpan Pinjam Kami!
-          Kami adalah tempat untuk Anda meraih pertumbuhan finansial!
-          Kami siap memberikan pelayanan terbaik dengan kejujuran dan profesionalisme dalam setiap transaksi.
-          Berkomitmen untuk membantu Anda mewujudkan impian dan meraih kesuksesan melalui layanan simpan pinjam yang
-          terintegrasi dengan sistem inventori, proyek, dan penggajian.
-          Mari bersama-sama #FeelTheProsperity $ MakeYourGoalsComeTrue
+        Selamat datang di Layanan Simpan Pinjam Terbaik kami!
+        Kami adalah teman finansial Anda, siap membantu Anda meraih sukses dan impian Anda. #ProspekGemilang #SuksesAndaAdalahMisiKami
         </p>
       </div>
 
@@ -550,7 +546,7 @@
       <div class="section-header">
         <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 500;">Fitur-fitur terbaik kami akan mempermudah bisnis Anda.</h2>
         <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 16px; color: #666;">Perhitungan Akurat,
-          Keputusan Bijak, Produk Akuntansi</p>
+          Keputusan Bijak, Produk Akuntansi Terpercaya</p>
       </div>
 
       <div class="row gy-5">
@@ -948,12 +944,12 @@
 
             <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
               <h3 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-6">
                   <i class="bi bi-question-circle question-icon"></i>
                   Bagaimana saya dapat mengajukan pinjaman melalui DIKO?
                 </button>
               </h3>
-              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+              <div id="faq-content-6" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
                 Anda dapat mengajukan pinjaman melalui sistem aplikasi dengan mengisi formulir pinjaman 
                 yang tersedia dalam akun anggota Anda dan mengikuti petunjuk yang diberikan.
@@ -963,12 +959,12 @@
 
             <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
               <h3 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-7">
                   <i class="bi bi-question-circle question-icon"></i>
                   Bagaimana jika saya lupa kata sandi akun saya?
                 </button>
               </h3>
-              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+              <div id="faq-content-7" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
                 Anda dapat mengikuti prosedur pemulihan kata sandi yang ada di sistem aplikasi 
                 atau menghubungi pengelola koperasi untuk membantu Anda mengatasi masalah ini.
@@ -978,12 +974,12 @@
 
             <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
               <h3 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-8">
                   <i class="bi bi-question-circle question-icon"></i>
                   Apakah saya dapat mengakses DIKO melalui perangkat seluler?
                 </button>
               </h3>
-              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+              <div id="faq-content-8" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
                 Ya, sistem aplikasi kami umumnya dapat diakses melalui perangkat seluler seperti smartphone atau tablet dengan mudah.
                 </div>
@@ -992,12 +988,12 @@
 
             <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
               <h3 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-9">
                   <i class="bi bi-question-circle question-icon"></i>
                   Bagaimana jika saya memiliki pertanyaan lebih lanjut atau masalah teknis?
                 </button>
               </h3>
-              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+              <div id="faq-content-9" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
                 Jangan ragu untuk menghubungi tim dukungan kami melalui informasi kontak yang tersedia di situs web kami. 
                 Kami akan dengan senang hati membantu Anda.
@@ -1007,12 +1003,12 @@
 
             <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
               <h3 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-10">
                   <i class="bi bi-question-circle question-icon"></i>
                   Bagaimana cara mengajukan saran atau masukan untuk meningkatkan DIKO?
                 </button>
               </h3>
-              <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+              <div id="faq-content-10" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                 <div class="accordion-body">
                 Kami selalu mendengar masukan dari pengguna kami. Anda dapat mengirimkan saran atau masukan melalui formulir 
                 yang disediakan di situs web kami atau menghubungi pengelola koperasi Anda.
@@ -1304,30 +1300,25 @@
   </section><!-- End Recent Blog Posts Section -->
 
   <!-- ======= Contact Section ======= -->
-  <section id="contact" class="contact">
-    <div class="container">
-      <div class="section-header">
-        <h2>KONTAK</h2>
-        <p> Kami senang mendengar dari Anda dan siap membantu menjawab pertanyaan, menyediakan dukungan, atau menerima umpan balik yang berharga. Kami berkomitmen untuk memberikan layanan pelanggan yang luar biasa, dan Anda adalah prioritas kami.</p>
-      </div>
-    </div>
-
-    <div class="map">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div><!-- End Google Maps -->
-
+   <section id="contact" class="contact">
     <div class="container">
       <div class="row gy-5 gx-lg-5">
-        <div class="col-lg-4">
+        <div class="col-lg-6">
+          <div class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div><!-- End Google Maps -->
+        </div>
+        <div class="col-lg-6">
           <div class="info">
-
-            <!-- <p>Et id eius voluptates atque nihil voluptatem enim in tempore minima sit ad mollitia commodi minus.</p> -->
-
+            <div class="section-header">
+              <h2>Contact</h2>
+              <!-- <p>Kami senang mendengar dari Anda dan siap membantu menjawab pertanyaan, menyediakan dukungan, atau menerima umpan balik yang berharga. Kami berkomitmen untuk memberikan layanan pelanggan yang luar biasa, dan Anda adalah prioritas kami.</p> -->
+            </div>
+            
             <div class="info-item d-flex">
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h4>Alamat:</h4>
-
                 <p>Office : JL. Bulu Mas II No. 1 - Kanigoro - Kota Madiun - Jawa Timur<br><br>
                   Branch Office : Perum Griya Gadang Sejahtera Kav. 14 Gadang - Sukun - Kota Malang - Jawa Timur </p>
               </div>
@@ -1352,7 +1343,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </section><!-- End Contact Section -->
 

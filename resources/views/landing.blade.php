@@ -30,10 +30,10 @@
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
           <h3>Mudahkan Laporan Akuntansi Anda dengan</h3>
-          <p class="fst-italic">
+          <!-- <p class="fst-italic">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
             magna aliqua.
-          </p>
+          </p> -->
           <ul>
             <li><i class="bi bi-check-circle"></i>Akses yang mudah</li>
             <li><i class="bi bi-check-circle"></i>Biaya yang terjangkau</li>
@@ -312,7 +312,7 @@
             <li data-filter=".filter-app">Invoicing</li>
             <li data-filter=".filter-card">Purchase</li>
             <li data-filter=".filter-web">Sales</li>
-            <li data-filter=".filter-web">Bank Reconciliation</li>
+            <!-- <li data-filter=".filter-web">Bank Reconciliation</li> -->
           
           </ul>
         </div>
