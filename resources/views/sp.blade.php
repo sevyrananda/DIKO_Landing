@@ -16,7 +16,7 @@
           Video</span></a>
     </div>
     <div>
-      <img src="HeroBiz/assets/img/diko-sp.png" alt="">
+      <img src="HeroBiz/assets/img/diko-sp-2.png" alt="" style="width: 900px;">
     </div>
   </div>
 </section>
@@ -378,7 +378,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid" style="width:250px">
             </div>
           </div>
         </div><!-- End Tab Content 1 -->
@@ -411,7 +411,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid" style="width:250px">
             </div>
           </div>
         </div><!-- End Tab Content 2 -->
@@ -440,7 +440,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid" style="width:250px">
             </div>
           </div>
         </div><!-- End Tab Content 3 -->
@@ -469,7 +469,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid" style="width:250px">
             </div>
           </div>
         </div><!-- End Tab Content 4 -->
