@@ -7,7 +7,7 @@
     <p style="font-size: 15px; font-stretch: expanded;">
       SOFTWARE MICROFINANCE & BISNIS TERBAIK
     </p>
-    <p style="font-size: 45px; font-weight: bold; ">
+    <p style="font-size: 45px; font-weight: bold; position:relative; margin-bottom:20px;">
       Kelola Pinjaman dan Laporan Keuangan dengan Lebih Mudah!</p>
     <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;">Terintegrasi dengan Inventori,
       Proyek, dan
@@ -18,7 +18,7 @@
           Video</span></a>
     </div>
     <div>
-      <img src="HeroBiz/assets/img/diko-sp.png" alt="">
+      <img src="HeroBiz/assets/img/diko-sp-2.png" alt="" width="900px">
     </div>
   </div>
 </section>
@@ -315,7 +315,7 @@
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
             <!-- <i class="bi bi-box-seam color-indigo"></i> -->
             <img src="{{url('HeroBiz')}}/shield.png" alt="monitor" width="50" height="50">
-            <h4>Safaty</h4>
+            <h4>Safety</h4>
           </a>
         </li><!-- End Tab 2 Nav -->
 
@@ -380,7 +380,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid" style="width: 250px">
             </div>
           </div>
         </div><!-- End Tab Content 1 -->
@@ -413,7 +413,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid" style="width: 250px">
             </div>
           </div>
         </div><!-- End Tab Content 2 -->
@@ -442,7 +442,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid" style="width: 250px">
             </div>
           </div>
         </div><!-- End Tab Content 3 -->
@@ -471,7 +471,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid">
+              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid" style="width: 250px">
             </div>
           </div>
         </div><!-- End Tab Content 4 -->
@@ -1250,6 +1250,7 @@
       </div>
     </div>
 
+<div>
     <div class="map">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div><!-- End Google Maps -->
