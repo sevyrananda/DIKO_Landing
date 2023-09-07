@@ -7,7 +7,9 @@
   <div class="container-fluid" data-aos="fade-up">
     <div class="row justify-content-center">
       <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-        <h1>Great Things Coming Soon</h1>
+        <h1 style="text-shadow: 1px 1px 5px grey;">
+          Great Things Coming Soon
+        </h1>
         <h2>Meningkatkan Efisiensi, Aksesibilitas, dan Keamanan Transaksi Koperasi</h2>
       </div>
       <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
