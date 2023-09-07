@@ -65,7 +65,7 @@
       </div>
 
       <div class="row content">
-        <div class="col-lg-6">
+        <div class="col-lg-15">
           <p style="text-align: justify;">
             Selamat datang di Layanan Point of Sale kami!
             Kami adalah tempat untuk Anda meraih pertumbuhan finansial!
