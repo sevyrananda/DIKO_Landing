@@ -341,7 +341,7 @@
 
       <div class="section-title">
         <h2>Contact</h2>
-        <p>Hubungi Kontak dibawah ini atau tinggalkan pesan!</p>
+        <p>Hubungi Kontak dibawah ini</p>
       </div>
 
       <div class="row">
