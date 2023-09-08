@@ -2,7 +2,7 @@
 @section('content')
 
 <section id="hero-animated" class="hero-animated d-flex align-items-center" style="background-color:#C3E2FF;">
-  <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out" style="color : #0C356A;">
+  <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out" style="color : #144B9A;">
     <!-- <img src="assets/img/hero-carousel/hero-carousel-3.svg" class="img-fluid animated"> -->
     <p style="font-size: 15px; font-stretch: expanded;">
      

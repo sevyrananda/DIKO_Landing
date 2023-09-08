@@ -398,7 +398,7 @@
       </div>
 
     </div>
-  </section><!-- End Contact Section -->act Section -->
+  </section><!-- End Contact Section -->
 
 </main><!-- End #main -->
 @endsection

@@ -8,8 +8,8 @@
     <h2>Selamat Datang di <span>DIKO POS</span></h2>
     <p>Kelola Pinjaman dan Laporan Keuangan dengan Lebih Mudah!</p>
     <div class="d-flex">
-      <a href="#about" class="btn-get-started scrollto" style="background-color: #0C356A;">Get Started</a>
-      <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox btn-watch-video d-flex align-items-center" style="color: #0C356A;"><i class="bi bi-play-circle" style="color: #0C356A;"></i><span>Watch Video</span></a>
+      <a href="#about" class="btn-get-started scrollto" style="background-color: #144B9A;">Get Started</a>
+      <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox btn-watch-video d-flex align-items-center" style="color: #144B9A;"><i class="bi bi-play-circle" style="color: #144B9A;"></i><span>Watch Video</span></a>
     </div>
   </div>
 </section><!-- End Clients Section -->
@@ -419,8 +419,10 @@
   <section id="contact" class="contact">
     <div class="container">
       <div class="section-header">
-        <h2>Contact</h2>
-        <p>Hubungi Kontak dibawah ini</p>
+        <h2>Kontak</h2>
+        <p> Kami senang mendengar dari Anda dan siap membantu menjawab pertanyaan, menyediakan dukungan, 
+          atau menerima umpan balik yang berharga. Kami berkomitmen untuk memberikan layanan pelanggan yang luar biasa, 
+          dan Anda adalah prioritas kami.</p>
       </div>
     </div>
 

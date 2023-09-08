@@ -25,7 +25,7 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->
-      <a class="btn-getstarted scrollto" style="margin-right: 50px; background-color:#0C356A;" href="{{ route('landing') }}">Login</a>
+      <a class="btn-getstarted scrollto" style="margin-right: 50px; background-color:#144B9A;" href="{{ route('landing') }}">Login</a>
       <!-- <a class="btn-getstarted scrollto" style="margin-right: 50px;" href="index.html#about">Daftar</a> -->
     </div>
   </header><!-- End Header -->

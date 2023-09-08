@@ -58,9 +58,8 @@
       class="bi bi-arrow-up-short"></i></a>
         -->
   <div class="floating-ascend-button">
-    <a href="#" class="scroll-top d-flex align-items-center justify-content-center" style="width: 150px; padding: 10px;">
-      We're Online!
-      <i class="bi bi-arrow-up-short"></i>
+    <a href="http://wa.me/+62813xxxxxxxx" class="scroll-top d-flex align-items-center justify-content-center" style="padding: 10px;">
+      <i class="bi bi-whatsapp"></i>
     </a>
   </div>
 
