@@ -211,7 +211,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: rgba(var(--color-primary-rgb), 0.85);
+  background: #25d366;
   color: var(--color-white);
 }
 
