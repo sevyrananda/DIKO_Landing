@@ -299,7 +299,7 @@
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
-          <i class="bi bi-braces-asterisk color-cyan"></i>
+          <i class="bi bi-cash-coin color-teal"></i>
             <!-- <img src="{{url('HeroBiz')}}/integration.png" alt="integration" width="50" height="50"> -->
             <h4>Sekali Bayar</h4>
           </a>
@@ -307,7 +307,7 @@
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-          <i class="bi bi-shield-check color-teal"></i>
+          <i class="bi bi-shield-check color-cyan"></i>
             <!-- <img src="{{url('HeroBiz')}}/shield.png" alt="monitor" width="50" height="50"> -->
             <h4>Keamanan</h4>
           </a>
@@ -593,7 +593,7 @@
             </div>
             <div class="details position-relative">
               <div class="icon">
-                <i class="bi bi-chart-bar"></i> <!-- Ikon grafik batang -->
+                <i class="bi bi-bar-chart"></i> <!-- Ikon grafik batang -->
               </div>
               <a href="#" class="stretched-link">
                 <h3>Jadwal Angsuran</h3>
@@ -1045,21 +1045,22 @@
 
     </div> -->
 
-    <!-- <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
+    <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
 
-      <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
+      <!-- <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order"> -->
 
-        <ul class="portfolio-flters">
+        <!-- <ul class="portfolio-flters">
           <li data-filter="*" class="filter-active">All</li>
           <li data-filter=".filter-app">Simpanan</li>
           <li data-filter=".filter-product">Pinjaman</li>
           <li data-filter=".filter-branding">Simpanan Berjangka</li>
           <li data-filter=".filter-books">Akuntansi</li>
-        </ul><!-- End Portfolio Filters -->
+        </ul> -->
+        <!-- End Portfolio Filters -->
 
-        <!-- <div class="row g-0 portfolio-container">
+        <div class="row g-0 portfolio-container">
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>App 1</h4>
@@ -1176,17 +1177,14 @@
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div> -->
-          <!-- End Portfolio Item -->
-<!-- 
-        </div> -->
-        <!-- End Portfolio Container -->
+          </div><!-- End Portfolio Item -->
+
+        </div><!-- End Portfolio Container -->
 
       <!-- </div> -->
 
-    <!-- </div>
-  </section> 
-  End Portfolio Section -->
+    </div>
+  </section><!-- End Portfolio Section -->
 
   <!-- ======= Team Section ======= -->
   <!-- <section id="team" class="team">
@@ -1321,7 +1319,14 @@
       <div class="row gy-5 gx-lg-5">
         <div class="col-lg-6">
           <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" 
+              width="100%" 
+              height="100%" 
+              style="border:0;" 
+              allowfullscreen="" 
+              loading="lazy" 
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
           </div><!-- End Google Maps -->
         </div>
         <div class="col-lg-6">

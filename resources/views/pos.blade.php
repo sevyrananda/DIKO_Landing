@@ -74,14 +74,14 @@
       <ul class="nav nav-tabs row gy-4 d-flex justify-content-center">
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
-            <i class="bi bi-braces-asterisk color-cyan"></i>
+            <i class="bi bi-cash-coin color-teal"></i>
             <h4>Integrated</h4>
           </a>
         </li><!-- End Tab 1 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-            <i class="bi bi-shield-check color-teal"></i>
+            <i class="bi bi-shield-check color-cyan"></i>
             <h4>Safety</h4>
           </a>
         </li><!-- End Tab 2 Nav -->
@@ -170,7 +170,7 @@
 
 
   <!-- ======= Pricing Section ======= -->
-  <section id="pricing" class="pricing">
+  <!-- <section id="pricing" class="pricing">
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
@@ -202,7 +202,7 @@
             </div>
 
           </div>
-        </div><!-- End Pricing Item -->
+        </div>
 
         <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
           <div class="pricing-item featured">
@@ -227,7 +227,7 @@
             </div>
 
           </div>
-        </div><!-- End Pricing Item -->
+        </div>
 
         <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
           <div class="pricing-item">
@@ -250,15 +250,16 @@
             </div>
 
           </div>
-        </div><!-- End Pricing Item -->
+        </div>
 
       </div>
 
     </div>
-  </section><!-- End Pricing Section -->
+  </section> -->
+  <!-- End Pricing Section -->
 
   <!-- ======= Testimonials Section ======= -->
-  <section id="testimonials" class="testimonials">
+  <!-- <section id="testimonials" class="testimonials">
     <div class="container" data-aos="fade-up">
       <h2 style="color:#fff; text-align:center;">Testimonial</h2>
       <div class="testimonials-slider swiper">
@@ -279,7 +280,7 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
@@ -296,7 +297,7 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
@@ -313,7 +314,7 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
@@ -330,7 +331,7 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
@@ -347,17 +348,18 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
         </div>
         <div class="swiper-pagination"></div>
       </div>
 
     </div>
-  </section><!-- End Testimonials Section -->
+  </section> -->
+  <!-- End Testimonials Section -->
 
   <!-- ======= Featured Services Section ======= -->
-  <section id="featured-services" class="featured-services">
+  <section id="featured-services" class="featured-services" style="background-color:#C3E2FF;">
     <div class="container">
 
       <div class="row gy-4">
@@ -433,7 +435,7 @@
             <div class="card-body">
               <h3>More Info</h3>
               <p>Hubungi Kami dibawah ini</p>
-              <br>
+              <br/><br/>
               <div class="info-item d-flex">
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
@@ -464,13 +466,20 @@
         </div>
 
         <div class="col-lg-6">
-          <div class="card flex-fill shadow">
+          <!-- <div class="card flex-fill shadow"> -->
             <div class="card-body">
               <div class="map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" 
+                  width="100%" 
+                  height="90%" 
+                  style="border:0;" 
+                  allowfullscreen="" 
+                  loading="lazy" 
+                  referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
               </div><!-- End Google Maps -->
             </div>
-          </div>
+          <!-- </div> -->
         </div>
       </div>
     </div>
