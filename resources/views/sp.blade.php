@@ -8,7 +8,7 @@
      
     </p>
     <p style="font-size: 45px; font-weight: bold; ">
-    Revolutionize your accounting management with our smarter, faster solution.</p>
+    Selamat Datang di solusi terbaik untuk manajemen keuangan bisnis Anda. Temukan kemudahan dengan aplikasi akuntansi kami.</p>
     <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;">Integrasi canggih: Inventori, Proyek, dan Penggajian, semua dalam satu solusi andal!</p>
     <div class="d-flex">
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -301,7 +301,7 @@
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
           <i class="bi bi-braces-asterisk color-cyan"></i>
             <!-- <img src="{{url('HeroBiz')}}/integration.png" alt="integration" width="50" height="50"> -->
-            <h4>Integrated</h4>
+            <h4>Sekali Bayar</h4>
           </a>
         </li><!-- End Tab 1 Nav -->
 
@@ -309,7 +309,7 @@
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
           <i class="bi bi-shield-check color-teal"></i>
             <!-- <img src="{{url('HeroBiz')}}/shield.png" alt="monitor" width="50" height="50"> -->
-            <h4>Safety</h4>
+            <h4>Keamanan</h4>
           </a>
         </li><!-- End Tab 2 Nav -->
 
@@ -317,7 +317,7 @@
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
           <i class="bi bi-binoculars color-indigo"></i>
             <!-- <img src="{{url('HeroBiz')}}/monitor.png" alt="monitor" width="50" height="50"> -->
-            <h4>Monitoring</h4>
+            <h4>Pemantauan</h4>
           </a>
         </li><!-- End Tab 3 Nav -->
 
@@ -350,10 +350,10 @@
         <div class="tab-pane active show" id="tab-1">
           <div class="row gy-4">
             <div class="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
-              <h3>Kemudahan Akses Antar Cabang Terpadu</h3>
+              <h3>Kemudahan Akses Pembayaran</h3>
               <p style="font-size: 20px; color: darkgray; font-family:Verdana, Geneva, Tahoma, sans-serif;">
-                Proses Simpan Pinjam yang Terintegrasi memastikan laporan keuangan perusahaan Anda selalu terlihat
-                secara real-time, sehingga pengambilan keputusan bisnis menjadi lebih mudah dan tepat waktu.
+              Sebuah opsi pembayaran di mana pengguna hanya perlu membayar sekali untuk mendapatkan akses atau manfaat tertentu tanpa harus berlangganan atau membayar secara berkala. 
+              Ini adalah konsep keuangan yang bertentangan dengan model bisnis berlangganan atau pembayaran berulang seperti bulanan atau tahunan.
               </p>
               <!-- <ul>
                   <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -415,10 +415,9 @@
         <div class="tab-pane" id="tab-3">
           <div class="row gy-4">
             <div class="col-lg-8 order-2 order-lg-1">
-              <h3>Pantau Persediaan dengan Lebih Mudah</h3>
+              <h3>Pantau Koperasi</h3>
               <p style="font-size: 20px; color: darkgray; font-family:Verdana, Geneva, Tahoma, sans-serif;">
-                Anda dapat dengan mudah memantau stok barang, baik di antara gudang maupun cabang, sehingga Anda
-                selalu tahu bagaimana perputaran persediaan dengan lebih efisien
+                Anda dapat dengan mudah memantau tentang arus kas, keuntungan, dan statistik. Dengan pemantauan koperasi yang akurat, dpaat mengidentifikasi peluang pertumbuhan dan mengatasi masalah dengan cepat.
               </p>
               <!-- <ul>
                   <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -537,7 +536,7 @@
       </div>
 
     </div>
-  </section><!-- End Features Section -->
+  </section>
 
   <!-- ======= Services Section ======= -->
   <section id="services" class="services">
@@ -664,13 +663,13 @@
   </section><!-- End Services Section -->
 
   <!-- ======= Testimonials Section ======= -->
-  <section id="testimonials" class="testimonials">
-    <div class="container" data-aos="fade-up">
+  <!-- <section id="testimonials" class="testimonials">
+    <div class="container" data-aos="fade-up"> -->
 
-      <div class="testimonials-slider swiper">
-        <div class="swiper-wrapper">
+      <!-- <div class="testimonials-slider swiper">
+        <div class="swiper-wrapper"> -->
 
-          <div class="swiper-slide">
+          <!-- <div class="swiper-slide">
             <div class="testimonial-item">
               <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
               <h3>Saul Goodman</h3>
@@ -685,9 +684,10 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div> -->
+          <!-- End testimonial item -->
 
-          <div class="swiper-slide">
+          <!-- <div class="swiper-slide">
             <div class="testimonial-item">
               <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
               <h3>Sara Wilsson</h3>
@@ -702,9 +702,10 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div> -->
+          <!-- End testimonial item -->
 
-          <div class="swiper-slide">
+          <!-- <div class="swiper-slide">
             <div class="testimonial-item">
               <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
               <h3>Jena Karlis</h3>
@@ -719,9 +720,10 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div> -->
+          <!-- End testimonial item -->
 
-          <div class="swiper-slide">
+          <!-- <div class="swiper-slide">
             <div class="testimonial-item">
               <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
               <h3>Matt Brandon</h3>
@@ -736,9 +738,10 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div> -->
+          <!-- End testimonial item -->
 
-          <div class="swiper-slide">
+          <!-- <div class="swiper-slide">
             <div class="testimonial-item">
               <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
               <h3>John Larson</h3>
@@ -753,19 +756,20 @@
                 <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
-          </div><!-- End testimonial item -->
+          </div> -->
+          <!-- End testimonial item -->
 
-        </div>
+        <!-- </div>
         <div class="swiper-pagination"></div>
-      </div>
+      </div> -->
 
     </div>
   </section><!-- End Testimonials Section -->
   <!-- ======= Pricing Section ======= -->
-  <section id="pricing" class="pricing">
-    <div class="container" data-aos="fade-up">
+  <!-- <section id="pricing" class="pricing">
+    <div class="container" data-aos="fade-up"> -->
 
-      <div class="section-header">
+      <!-- <div class="section-header">
         <h2>Our Pricing</h2>
         <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas
           asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
@@ -794,7 +798,7 @@
             </div>
 
           </div>
-        </div><!-- End Pricing Item -->
+        </div>End Pricing Item
 
         <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
           <div class="pricing-item featured">
@@ -819,9 +823,9 @@
             </div>
 
           </div>
-        </div><!-- End Pricing Item -->
+        </div>End Pricing Item -->
 
-        <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
+        <!-- <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
           <div class="pricing-item">
 
             <div class="pricing-header">
@@ -842,12 +846,13 @@
             </div>
 
           </div>
-        </div><!-- End Pricing Item -->
+        </div>< End Pricing Item -->
 
       </div>
 
     </div>
-  </section><!-- End Pricing Section -->
+  </section>
+  <!-- End Pricing Section -->
 
   <!-- ======= F.A.Q Section ======= -->
   <section id="faq" class="faq">
@@ -1027,9 +1032,9 @@
   </section><!-- End F.A.Q Section -->
 
   <!-- ======= Portfolio Section ======= -->
-  <section id="portfolio" class="portfolio" data-aos="fade-up">
+  <!-- <section id="portfolio" class="portfolio" data-aos="fade-up"> -->
 
-    <div class="container">
+    <!-- <div class="container">
 
       <div class="section-header">
         <h2>Portfolio</h2>
@@ -1038,9 +1043,9 @@
         </p>
       </div>
 
-    </div>
+    </div> -->
 
-    <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
+    <!-- <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
 
       <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
 
@@ -1052,7 +1057,7 @@
           <li data-filter=".filter-books">Akuntansi</li>
         </ul><!-- End Portfolio Filters -->
 
-        <div class="row g-0 portfolio-container">
+        <!-- <div class="row g-0 portfolio-container">
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
@@ -1061,113 +1066,127 @@
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Product 1</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Branding 1</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/branding-1.jpg" title="Branding 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Books 1</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/books-1.jpg" title="Branding 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>App 2</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/app-2.jpg" title="App 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Product 2</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Branding 2</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/branding-2.jpg" title="Branding 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Books 2</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/books-2.jpg" title="Branding 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>App 3</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/app-3.jpg" title="App 3" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Product 3</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/product-3.jpg" title="Product 3" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Branding 3</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/branding-3.jpg" title="Branding 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
 
-          <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
+          <!-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
             <img src="{{url('HeroBiz')}}/assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Books 3</h4>
               <a href="{{url('HeroBiz')}}/assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
-          </div><!-- End Portfolio Item -->
+          </div> -->
+          <!-- End Portfolio Item -->
+<!-- 
+        </div> -->
+        <!-- End Portfolio Container -->
 
-        </div><!-- End Portfolio Container -->
+      <!-- </div> -->
 
-      </div>
-
-    </div>
-  </section><!-- End Portfolio Section -->
+    <!-- </div>
+  </section> 
+  End Portfolio Section -->
 
   <!-- ======= Team Section ======= -->
   <!-- <section id="team" class="team">
