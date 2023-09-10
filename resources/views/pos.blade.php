@@ -21,7 +21,7 @@
       <div class="flex" style="background-color: #485664;">
         <div class="row">
           <div class="col-md-6">
-            <img src="{{ asset('HeroBiz/m1.png') }}" class="img-fluid animated fill-shadow" alt="Gambar DIKO POS">
+            <img src="{{ asset('HeroBiz/mockup-1.png') }}" class="img-fluid animated fill-shadow" alt="Gambar DIKO POS">
           </div>
           <div class="col-md-6 mt-5">
             <h2 style="color: #fff;">Bagaimana Diko POS membantu Anda?</h2>
@@ -45,8 +45,8 @@
   </section><!-- End About Section -->
 
   <!-- ======= Clients Section ======= -->
-  <section id="clients" class="clients">
-    <div class="container" data-aos="zoom-out" style="margin-top: 100px;">
+  <!-- <section id="clients" class="clients"> -->
+    <!-- <div class="container" data-aos="zoom-out" style="margin-top: 100px;">
       <div class="clients-slider swiper">
         <div class="swiper-wrapper align-items-center">
           <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-1.png') }}" class="img-fluid" alt=""></div>
@@ -60,36 +60,37 @@
         </div>
       </div>
 
-    </div>
-  </section><!-- End Clients Section -->
+    </div> -->
+  <!-- </section> -->
+  <!-- End Clients Section -->
 
   <!-- ======= Features Section ======= -->
   <section id="features" class="features">
     <div class="container" data-aos="fade-up">
       <div class="section-header">
         <h2>Fitur Diko POS</h2>
-        <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas
-          asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
+        <!-- <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas
+          asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p> -->
       </div>
       <ul class="nav nav-tabs row gy-4 d-flex justify-content-center">
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
             <i class="bi bi-cash-coin color-teal"></i>
-            <h4>Integrated</h4>
+            <h4>Sekali Bayar</h4>
           </a>
         </li><!-- End Tab 1 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
             <i class="bi bi-shield-check color-cyan"></i>
-            <h4>Safety</h4>
+            <h4>Keamanan</h4>
           </a>
         </li><!-- End Tab 2 Nav -->
 
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
             <i class="bi bi-binoculars color-indigo"></i>
-            <h4>Monitoring</h4>
+            <h4>Pemantauan</h4>
           </a>
         </li><!-- End Tab 3 Nav -->
 
@@ -106,10 +107,11 @@
         <div class="tab-pane active show" id="tab-1">
           <div class="row gy-4 justify-content-center">
             <div class="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
-              <h3>Kemudahan Akses Antar Cabang Terpadu</h3>
+              <h3>Kemudahan Akses Pembayaran</h3>
               <p class="fst-italic">
-                Proses Simpan Pinjam yang Terintegrasi memastikan laporan keuangan perusahaan Anda selalu terlihat
-                secara real-time, sehingga pengambilan keputusan bisnis menjadi lebih mudah dan tepat waktu.
+                Anggota koperasi untuk melakukan pembayaran atau transaksi sekali bayar dengan mudah. 
+                Ini dapat mencakup pembelian saham, pembayaran pinjaman, atau pembelian produk dan layanan lainnya yang ditawarkan oleh koperasi.
+                Memungkinkan anggota untuk melihat riwayat transaksi mereka, sehingga mereka dapat melacak semua pembayaran dan transaksi yang telah mereka lakukan.
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center" data-aos="fade-up" data-aos-delay="200">
@@ -123,9 +125,8 @@
             <div class="col-lg-8 order-2 order-lg-1">
               <h3>Keamanan Data Terjaga</h3>
               <p class="fst-italic">
-                Kenyamanan Anda dalam mengakses data di DikoSP menjadi prioritas utama kami. Kami menggunakan sistem
-                enkripsi modern dan proteksi data yang kuat untuk memastikan keamanan data Anda tanpa memerlukan
-                sertifikat.
+              Sistem keamanan yang kuat akan memerlukan otorisasi dan autentikasi yang tepat untuk mengakses informasi atau melakukan transaksi. 
+              Hal ini dapat mencakup verifikasi dua faktor, kata sandi yang kuat, dan kontrol akses yang baik.
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">
@@ -137,10 +138,10 @@
         <div class="tab-pane" id="tab-3">
           <div class="row gy-4 justify-content-center">
             <div class="col-lg-8 order-2 order-lg-1">
-              <h3>Pantau Persediaan dengan Lebih Mudah</h3>
+              <h3>Pantau Transaksi</h3>
               <p class="fst-italic">
-                Anda dapat dengan mudah memantau stok barang, baik di antara gudang maupun cabang, sehingga Anda
-                selalu tahu bagaimana perputaran persediaan dengan lebih efisien
+              Fitur pemantauan akan memungkinkan pengelola koperasi untuk memantau aktivitas di situs web, termasuk transaksi yang terjadi. 
+              Ini membantu mendeteksi potensi kecurangan atau aktivitas yang mencurigakan.
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">
@@ -154,8 +155,8 @@
             <div class="col-lg-8 order-2 order-lg-1">
               <h3>Pengelolaan Simpan Pinjam yang Efisien</h3>
               <p class="fst-italic">
-                Simpan Pinjam dapat Anda kelola dengan mudah dan efisien secara real-time. Nikmati kemudahan pengingat
-                jatuh tempo untuk memastikan rencana keuangan Anda tetap teratur dan terukur
+              Fitur ini memastikan bahwa informasi di situs web selalu diperbarui secara real-time. 
+              Ini penting terutama dalam hal saldo akun anggota, informasi produk, dan suku bunga yang berubah.
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">

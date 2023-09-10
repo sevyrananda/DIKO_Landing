@@ -8,7 +8,7 @@
      
     </p>
     <p style="font-size: 45px; font-weight: bold; ">
-    Selamat Datang di solusi terbaik untuk manajemen keuangan bisnis Anda. Temukan kemudahan dengan aplikasi akuntansi kami.</p>
+    Solusi terbaik untuk manajemen keuangan bisnis Anda.</p>
     <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;">Integrasi canggih: Inventori, Proyek, dan Penggajian, semua dalam satu solusi andal!</p>
     <div class="d-flex">
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -566,7 +566,9 @@
               </p>
             </div>
           </div>
-        </div><!-- End Service Item -->
+        </div>
+        <!-- End Service Item -->
+        
 
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
           <div class="service-item">
