@@ -553,15 +553,14 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-<<<<<<< HEAD
+
               
-              <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt="">
+              <!-- <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt=""> -->
             
-=======
               <a href="{{url('HeroBiz')}}/assets/img/register.jpg" data-gallery="portfolio-gallery" class="glightbox preview-link">
                 <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt="">
               </a>
->>>>>>> c150274e18176a52d557af923fb6e4ce2008152f
+
             </div>
             <div class="details position-relative">
               <div class="icon">
