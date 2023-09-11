@@ -553,7 +553,9 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
+              
               <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt="">
+            
             </div>
             <div class="details position-relative">
               <div class="icon">
@@ -1040,9 +1042,7 @@
 
       <div class="section-header">
         <h2>DIKO is your Answer</h2>
-        <p>Non hic nulla eum consequatur maxime ut vero memo vero totam officiis pariatur eos dolorum sed fug dolorem
-          est possimus esse quae repudiandae. Dolorem id enim officiis sunt deserunt esse soluta consequatur quaerat
-        </p>
+        <p>Dengan Software Akuntansi DIKO versi lite, Anda tidak perlu khawatir tentang keterbatasan akses perangkat, sehingga Anda dapat menjalankan bisnis Anda dengan lebih efisien dan responsif terhadap perubahan dalam keadaan.</p>
       </div>
 
     </div>
@@ -1188,6 +1188,73 @@
 
     </div>
   </section><!-- End Portfolio Section -->
+
+  <!-- <section id="card-section" class="card-section" style="background-color: #F8F8F8;">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <div class="card">
+          <img src="{{url('HeroBiz')}}/assets/img/globe.png"  class="card-img-top" alt="Gambar Card 1"  style="max-width: 50px; max-height: 50px;">
+          <div class="card-body">
+            <h5 class="card-title">Card 1</h5>
+            <p class="card-text">Level up pencatatan, management, dan pelaporan Bisnis Anda dengan menggunakan DIKO</p>
+            <a href="#" class="btn btn-primary">Mulai Sekarang</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card">
+          <img src="{{url('HeroBiz')}}/assets/img/telephone-call.png" class="card-img-top" alt="Gambar Card 2"  style="max-width: 50px; max-height: 50px;">
+          <div class="card-body">
+            <h5 class="card-title">Card 2</h5>
+            <p class="card-text">Product Consultant kami akan membantu untuk memilih aplikasi terbaik sesuai kebutuhan perusahaan Anda</p>
+            <a href="#" class="btn btn-primary">Ajukan Demo</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+<section id="card-section" class="card-section" style="background-color: #C3E2FF;">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-body">
+            <div class="row align-items-center">
+              <div class="col-4">
+                <img src="{{url('HeroBiz')}}/assets/img/globe.png" class="card-img-top" alt="Gambar Card 1" style="max-width: 100px; max-height: 100px;">
+              </div>
+              <div class="col-8">
+                <h5 class="card-title">Coba DIKO, gratis!</h5>
+                <p class="card-text">Level up pencatatan, management, dan pelaporan Bisnis Anda dengan menggunakan DIKO</p>
+                <a href="#" class="btn btn-primary" style="background-color: #144B9A;">Mulai Sekarang</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-body">
+            <div class="row align-items-center">
+              <div class="col-4">
+                <img src="{{url('HeroBiz')}}/assets/img/telephone-call.png" class="card-img-top" alt="Gambar Card 2" style="max-width: 100px; max-height: 100px;">
+              </div>
+              <div class="col-8">
+                <h5 class="card-title">Hubungi DIKO</h5>
+                <p class="card-text">Consultant kami akan membantu untuk memilih aplikasi terbaik sesuai kebutuhan perusahaan Anda</p>
+                <a href="#" class="btn btn-primary"  style="background-color: #144B9A;">Ajukan Demo</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
   <!-- ======= Team Section ======= -->
   <!-- <section id="team" class="team">
