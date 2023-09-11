@@ -21,7 +21,7 @@
       <div class="flex" style="background-color: #485664;">
         <div class="row">
           <div class="col-md-6">
-            <img src="{{ asset('HeroBiz/mockup-1.png') }}" class="img-fluid animated fill-shadow" alt="Gambar DIKO POS">
+            <img src="{{ asset('HeroBiz/mockup-1-.png') }}" class="img-fluid animated fill-shadow" alt="Gambar DIKO POS">
           </div>
           <div class="col-md-6 mt-5">
             <h2 style="color: #fff;">Bagaimana Diko POS membantu Anda?</h2>
