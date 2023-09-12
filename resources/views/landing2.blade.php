@@ -861,7 +861,7 @@
     </section><!-- End Buy Ticket Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="section-bg">
+    <!-- <section id="contact" class="section-bg">
 
       <div class="container" data-aos="fade-up">
 
@@ -924,7 +924,8 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section> -->
+    <!-- End Contact Section -->
 
   </main><!-- End #main -->
   
