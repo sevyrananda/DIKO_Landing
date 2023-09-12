@@ -4,10 +4,14 @@
  <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
-      <h1 class="mb-4 pb-0">The Annual<br><span>Marketing</span> Conference</h1>
-      <p class="mb-4 pb-0">10-12 December, Downtown Conference Center, New York</p>
+      <h1 class="mb-4 pb-0">Selamat Datang di<br><span>Andromeda</span></h1>
+      <p class="mb-4 pb-0">Solusi terbaik untuk manajemen keuangan Anda</p>
       <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
-      <a href="#about" class="about-btn scrollto">About The Event</a>
+      <p class="mb-1 pb-0">Getting Start to</p>
+        <row>
+            <a href="{{ route('andromedapos') }}" class="about-btn scrollto">Andromeda POS</a>
+            <a href="{{ route('andromedasp') }}" class="about-btn scrollto">Andromeda SP</a>
+        </row>
     </div>
   </section><!-- End Hero Section -->
 
@@ -46,7 +50,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
-              <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Brenden Legros</a></h3>
                 <p>Quas alias incidunt</p>
@@ -61,7 +65,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
-              <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Hubert Hirthe</a></h3>
                 <p>Consequuntur odio aut</p>
@@ -76,7 +80,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
-              <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Cole Emmerich</a></h3>
                 <p>Fugiat laborum et</p>
@@ -91,7 +95,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
-              <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Jack Christiansen</a></h3>
                 <p>Debitis iure vero</p>
@@ -106,7 +110,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
-              <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Alejandrin Littel</a></h3>
                 <p>Qui molestiae natus</p>
@@ -121,7 +125,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
-              <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Willow Trantow</a></h3>
                 <p>Non autem dicta</p>
@@ -179,7 +183,7 @@
               <div class="col-md-2"><time>10:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
                 </div>
                 <h4>Keynote <span>Brenden Legros</span></h4>
                 <p>Facere provident incidunt quos voluptas.</p>
@@ -190,7 +194,7 @@
               <div class="col-md-2"><time>11:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
                 </div>
                 <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
                 <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
@@ -201,7 +205,7 @@
               <div class="col-md-2"><time>12:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
                 </div>
                 <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
                 <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
@@ -212,7 +216,7 @@
               <div class="col-md-2"><time>02:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
                 </div>
                 <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
                 <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
@@ -223,7 +227,7 @@
               <div class="col-md-2"><time>03:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
                 </div>
                 <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
                 <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
@@ -234,7 +238,7 @@
               <div class="col-md-2"><time>04:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
                 </div>
                 <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
                 <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
@@ -251,7 +255,7 @@
               <div class="col-md-2"><time>10:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
                 </div>
                 <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
                 <p>Facere provident incidunt quos voluptas.</p>
@@ -262,7 +266,7 @@
               <div class="col-md-2"><time>11:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
                 </div>
                 <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
                 <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
@@ -273,7 +277,7 @@
               <div class="col-md-2"><time>12:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
                 </div>
                 <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
                 <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
@@ -284,7 +288,7 @@
               <div class="col-md-2"><time>02:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
                 </div>
                 <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
                 <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
@@ -295,7 +299,7 @@
               <div class="col-md-2"><time>03:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
                 </div>
                 <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
                 <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
@@ -306,7 +310,7 @@
               <div class="col-md-2"><time>04:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
                 </div>
                 <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
                 <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
@@ -323,7 +327,7 @@
               <div class="col-md-2"><time>10:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
                 </div>
                 <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
                 <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
@@ -334,7 +338,7 @@
               <div class="col-md-2"><time>11:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
                 </div>
                 <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
                 <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
@@ -345,7 +349,7 @@
               <div class="col-md-2"><time>12:00 AM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
                 </div>
                 <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
                 <p>Facere provident incidunt quos voluptas.</p>
@@ -356,7 +360,7 @@
               <div class="col-md-2"><time>02:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
                 </div>
                 <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
                 <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
@@ -367,7 +371,7 @@
               <div class="col-md-2"><time>03:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
                 </div>
                 <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
                 <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
@@ -378,7 +382,7 @@
               <div class="col-md-2"><time>04:00 PM</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
+                  <img src="{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
                 </div>
                 <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
                 <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
@@ -426,15 +430,15 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/venue-gallery/1.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/venue-gallery/1.jpg" alt="" class="img-fluid">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/1.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/1.jpg" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/{{url('TheEvent')}}/assets/img/venue-gallery/2.jpg" class="glightbox" data-gall="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/2.jpg" class="glightbox" data-gall="venue-gallery">
                 <img src="{{url('TheEvent')}}/assets/img/venue-gallery/2.jpg" alt="" class="img-fluid">
               </a>
             </div>
