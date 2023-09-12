@@ -11,9 +11,9 @@
           <a href="#about" class="btn-get-started scrollto">Get Started</a>
         </div>
       </div>
-      <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-        <img src="{{ asset('Arsha/assets/img/hero-img.png') }}" class="img-fluid animated" alt="">
-      </div>
+      <div class="col-lg-6 order-1 order-lg-2 hero-img" data-tilt data-aos="zoom-in" data-aos-delay="200">
+        <img src="{{ asset('Arsha/assets/img/hero-img.png') }}" class="img-fluid" alt="">
+      </div>    
     </div>
   </div>
 </section><!-- End Hero -->
@@ -168,7 +168,7 @@
 
       <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
         <div class="icon-box">
-          <div class="icon"><i class="bx bx-file"></i></div>
+          <div class="icon"><i class="bx bx-file "></i></div>
           <h4><a href="">Aplikasi Simpan Pinjam Gratis</a></h4>
           <p>Akuntansi koperasi adalah suatu sistem pencatatan, pengelolaan, dan pelaporan keuangan yang digunakan oleh koperasi untuk menghasilkan informasi keuangan yang berguna dan akurat dalam mengelola keuangan koperasi.</p>
         </div>
@@ -399,3 +399,5 @@
 
 </main><!-- End #main -->
 @endsection
+
+<script type="text/javascript" src="vanilla-tilt.min.js"></script>
