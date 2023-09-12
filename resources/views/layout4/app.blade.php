@@ -5,7 +5,11 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+<<<<<<< HEAD
   <title>Welcome to Andromeda</title>
+=======
+  <title>Welcome to Andromeda!</title>
+>>>>>>> a8eecd2dc1d28775fa10df5e575b100ef5240396
   <meta content="" name="description">
   <meta content="" name="keywords">
 
