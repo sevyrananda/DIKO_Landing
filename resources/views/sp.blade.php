@@ -557,8 +557,8 @@
               
               <!-- <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt=""> -->
             
-              <a href="{{url('HeroBiz')}}/assets/img/register.jpg" data-gallery="portfolio-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/register.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/register.jpg" class="img-fluid" alt="">
               </a>
 
             </div>
@@ -580,8 +580,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/kas.jpg" data-gallery="portfolio-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/kas.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/kas.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/kas.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -600,8 +600,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/jadwal angsuran.jpg" data-gallery="portfolio-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/jadwal angsuran.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/jadwal angsuran.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/jadwal angsuran.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -619,8 +619,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/buku simpanan.jpg" data-gallery="portfolio-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/buku simpanan.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/buku simpanan.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/buku simpanan.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -639,8 +639,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/cetak bilyet.jpg" data-gallery="portfolio-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/cetak bilyet.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/cetak bilyet.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/cetak bilyet.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -659,8 +659,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/laporan.jpg" data-gallery="portfolio-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/laporan.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/laporan.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/laporan.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -883,10 +883,10 @@
 
           <div class="content px-xl-5">
             <h3><strong>Pertanyaan</strong> yang sering diajukan</h3>
-            <p>
+            <!-- <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
               dolore magna aliqua. Duis aute irure dolor in reprehenderit
-            </p>
+            </p> -->
           </div>
 
           <div class="accordion accordion-flush px-xl-5" id="faqlist">

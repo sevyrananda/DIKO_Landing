@@ -6,7 +6,7 @@
     <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
       <h1 class="mb-4 pb-0">Selamat Datang di<br><span>Andromeda</span></h1>
       <p class="mb-4 pb-0">Solusi terbaik untuk manajemen keuangan Anda</p>
-      <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
+      <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox play-btn mb-4"></a>
       <p class="mb-1 pb-0">Getting Start to</p>
         <row>
             <a href="{{ route('andromedapos') }}" class="about-btn scrollto">Andromeda POS</a>
@@ -26,14 +26,14 @@
             <p>ANDROMEDA merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak 
                 yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.</p>
           </div>
-          <div class="col-lg-3">
+          <!-- <div class="col-lg-3">
             <h3>Where</h3>
             <p>Downtown Conference Center, New York</p>
           </div>
           <div class="col-lg-3">
             <h3>When</h3>
             <p>Monday to Wednesday<br>10-12 December</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </section><!-- End About Section -->
@@ -527,7 +527,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="{{url('TheEvent')}}/assets/img/hotels/50426.jpg" alt="Hotel 2" class="img-fluid">
+                <img src="{{url('TheEvent')}}/assets/img/hotels/multiuser.jpg" alt="Hotel 2" class="img-fluid">
               </div>
               <h3><a href="#">Multi User</a></h3>
               <div class="stars">
