@@ -22,10 +22,9 @@
       <div class="container position-relative" data-aos="fade-up">
         <div class="row">
           <div class="col-lg-6">
-            <h2>About The Event</h2>
-            <p>Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut
-              accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in
-              est ut optio sequi unde.</p>
+            <h2>About Andromeda</h2>
+            <p>ANDROMEDA merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak 
+                yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.</p>
           </div>
           <div class="col-lg-3">
             <h3>Where</h3>
@@ -410,14 +409,14 @@
 
         <div class="row g-0">
           <div class="col-lg-6 venue-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
 
           <div class="col-lg-6 venue-info">
             <div class="row justify-content-center">
               <div class="col-11 col-lg-8 position-relative">
-                <h3>Downtown Conference Center, New York</h3>
-                <p>Iste nobis eum sapiente sunt enim dolores labore accusantium autem. Cumque beatae ipsam. Est quae sit qui voluptatem corporis velit. Qui maxime accusamus possimus. Consequatur sequi et ea suscipit enim nesciunt quia velit.</p>
+                <h3>Web Koperasi Simpan Pinjam</h3>
+                <p>Sebuah situs web yang digunakan oleh koperasi simpan pinjam untuk memberikan informasi dan layanan kepada anggota koperasi dan calon anggota. Situs web ini biasanya menyediakan informasi tentang produk dan layanan koperasi, seperti suku bunga simpanan, suku bunga pinjaman, jenis pinjaman yang tersedia, persyaratan dan syarat untuk bergabung dengan koperasi, dan berbagai informasi terkait koperasi simpan pinjam.</p>
               </div>
             </div>
           </div>
@@ -502,8 +501,8 @@
 
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Hotels</h2>
-          <p>Her are some nearby hotels</p>
+          <h2>Fitur Khusus</h2>
+          <p>Kami menawarkan beberapa fitur spesial yang dapat membantu Anda</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -511,9 +510,9 @@
           <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="{{url('TheEvent')}}/assets/img/hotels/1.jpg" alt="Hotel 1" class="img-fluid">
+                <img src="{{url('TheEvent')}}/assets/img/hotels/security.jpg" alt="Hotel 1" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 1</a></h3>
+              <h3><a href="#">Security</a></h3>
               <div class="stars">
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -521,16 +520,16 @@
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
               </div>
-              <p>0.4 Mile from the Venue</p>
+              <!-- <p>0.4 Mile from the Venue</p> -->
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="{{url('TheEvent')}}/assets/img/hotels/2.jpg" alt="Hotel 2" class="img-fluid">
+                <img src="{{url('TheEvent')}}/assets/img/hotels/50426.jpg" alt="Hotel 2" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 2</a></h3>
+              <h3><a href="#">Multi User</a></h3>
               <div class="stars">
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -538,23 +537,23 @@
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill-half-full"></i>
               </div>
-              <p>0.5 Mile from the Venue</p>
+              <!-- <p>0.5 Mile from the Venue</p> -->
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="{{url('TheEvent')}}/assets/img/hotels/3.jpg" alt="Hotel 3" class="img-fluid">
+                <img src="{{url('TheEvent')}}/assets/img/hotels/platform.jpg" alt="Hotel 3" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 3</a></h3>
+              <h3><a href="#">Multiplatform</a></h3>
               <div class="stars">
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
               </div>
-              <p>0.6 Mile from the Venue</p>
+              <!-- <p>0.6 Mile from the Venue</p> -->
             </div>
           </div>
 
@@ -594,56 +593,56 @@
 
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Sponsors</h2>
+          <h2>Klien Kami</h2>
         </div>
 
         <div class="row no-gutters supporters-wrap clearfix" data-aos="zoom-in" data-aos-delay="100">
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/1.png" class="img-fluid" alt="">
+              <img src="{{url('TheEvent')}}/assets/img/supporters/sponsor.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/2.png" class="img-fluid" alt="">
+              <img src="{{url('TheEvent')}}/assets/img/supporters/S2.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/3.png" class="img-fluid" alt="">
+              <img src="{{url('TheEvent')}}/assets/img/supporters/S3.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/4.png" class="img-fluid" alt="">
+              <img src="{{url('TheEvent')}}/assets/img/supporters/S4.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/5.png" class="img-fluid" alt="">
+              <img src="{{url('TheEvent')}}/assets/img/supporters/S5.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/6.png" class="img-fluid" alt="">
+              <img src="{{url('TheEvent')}}/assets/img/supporters/S6.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/7.png" class="img-fluid" alt="">
+              <img src="{{url('TheEvent')}}/assets/img/supporters/S7.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/8.png" class="img-fluid" alt="">
+              <img src="{{url('TheEvent')}}/assets/img/supporters/S8.png" class="img-fluid" alt="">
             </div>
           </div>
 
@@ -668,58 +667,58 @@
             <ul class="faq-list">
 
               <li>
-                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Apa manfaat menggunakan Andromeda? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq1" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                    Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                  Menggunakan DIKO dapat membantu koperasi meningkatkan efisiensi pengelolaan keuangan,memperbaiki pelayanan kepada anggota, dan mengurangi potensi kesalahan dalam pencatatan transaksi.
                   </p>
                 </div>
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Bagaimana cara mendaftar sebagia anggota koperasi melalui sistem aplikasi ini? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq2" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  Untuk mendaftar sebagai anggota koperasi, Anda perlu menghubungi pengelola koperasi Anda. Mereka akan memberikan panduan langkah demi langkah tentang cara mendaftar dan menggunakan sistem aplikasi.
                   </p>
                 </div>
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Apakah sistem ini aman digunakan? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq3" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                  </p>
+                  Ya,karena kami telah mengimplementasikan berbagai lapisan keamanan, termasuk enkripsi data, otentikasi dua faktor, dan pengawasan akses, untuk menjaga data Anda tetap aman.
+                </p>
                 </div>
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Apakah saya dapat melihat saldo dan riwayat transaksi saya melalui Andromeda? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq4" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  Ya, Anda dapat mengakses saldo dan riwayat transaksi Anda melalui akun anggota Anda di sistem aplikasi.
                   </p>
                 </div>
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Bagaimana saya dapat mengajukan pinjaman melalui Andromeda? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq5" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                  Anda dapat mengajukan pinjaman melalui sistem aplikasi dengan mengisi formulir pinjaman yang tersedia dalam akun anggota Anda dan mengikuti petunjuk yang diberikan.
                   </p>
                 </div>
               </li>
 
-              <li>
+              <!-- <li>
                 <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq6" class="collapse" data-bs-parent=".faq-list">
                   <p>
                     Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
                   </p>
                 </div>
-              </li>
+              </li> -->
 
             </ul>
 
@@ -731,7 +730,7 @@
     </section><!-- End  F.A.Q Section -->
 
     <!-- ======= Subscribe Section ======= -->
-    <section id="subscribe">
+    <!-- <section id="subscribe">
       <div class="container" data-aos="zoom-in">
         <div class="section-header">
           <h2>Newsletter</h2>
@@ -748,18 +747,19 @@
         </form>
 
       </div>
-    </section><!-- End Subscribe Section -->
+    </section> -->
+    <!-- End Subscribe Section -->
 
     <!-- ======= Buy Ticket Section ======= -->
-    <section id="buy-tickets" class="section-with-bg">
-      <div class="container" data-aos="fade-up">
+    <!-- <section id="buy-tickets" class="section-with-bg">
+      <div class="container" data-aos="fade-up"> -->
 
-        <div class="section-header">
+        <!-- <div class="section-header">
           <h2>Buy Tickets</h2>
           <p>Velit consequatur consequatur inventore iste fugit unde omnis eum aut.</p>
-        </div>
+        </div> -->
 
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
@@ -774,8 +774,8 @@
                   <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
                   <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
                 </ul>
-                <hr>
-                <div class="text-center">
+                <hr> -->
+                <!-- <div class="text-center">
                   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#buy-ticket-modal" data-ticket-type="standard-access">Buy Now</button>
                 </div>
               </div>
@@ -786,8 +786,8 @@
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Pro Access</h5>
                 <h6 class="card-price text-center">$250</h6>
-                <hr>
-                <ul class="fa-ul">
+                <hr> -->
+                <!-- <ul class="fa-ul">
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
@@ -795,15 +795,15 @@
                   <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
                   <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
                 </ul>
-                <hr>
-                <div class="text-center">
+                <hr> -->
+                <!-- <div class="text-center">
                   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#buy-ticket-modal" data-ticket-type="pro-access">Buy Now</button>
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- Pro Tier -->
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+          <!-- <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Premium Access</h5>
@@ -816,8 +816,8 @@
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Workshop Access</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>After Party</li>
-                </ul>
-                <hr>
+                </ul> -->
+                <!-- <hr>
                 <div class="text-center">
                   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#buy-ticket-modal" data-ticket-type="premium-access">Buy Now</button>
                 </div>
@@ -827,10 +827,10 @@
           </div>
         </div>
 
-      </div>
+      </div> -->
 
       <!-- Modal Order Form -->
-      <div id="buy-ticket-modal" class="modal fade">
+      <!-- <div id="buy-ticket-modal" class="modal fade">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div class="modal-header">
@@ -841,8 +841,8 @@
               <form method="POST" action="#">
                 <div class="form-group">
                   <input type="text" class="form-control" name="your-name" placeholder="Your Name">
-                </div>
-                <div class="form-group mt-3">
+                </div> -->
+                <!-- <div class="form-group mt-3">
                   <input type="text" class="form-control" name="your-email" placeholder="Your Email">
                 </div>
                 <div class="form-group mt-3">
@@ -855,14 +855,15 @@
                 </div>
                 <div class="text-center mt-3">
                   <button type="submit" class="btn">Buy Now</button>
-                </div>
-              </form>
-            </div>
-          </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-      </div><!-- /.modal -->
+                </div> -->
+              <!-- </form> -->
+            <!-- </div> -->
+          <!-- </div>/.modal-content -->
+        <!-- </div>/.modal-dialog -->
+      <!-- </div>/.modal -->
 
-    </section><!-- End Buy Ticket Section -->
+    <!-- </section> -->
+    <!-- End Buy Ticket Section -->
 
     <!-- ======= Contact Section ======= -->
     <!-- <section id="contact" class="section-bg">

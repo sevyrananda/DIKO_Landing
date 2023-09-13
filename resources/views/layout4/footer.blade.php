@@ -6,28 +6,28 @@
 
          <div class="col-lg-3 col-md-6 footer-info">
            <img src="{{url('TheEvent')}}/assets/img/logo.png" alt="TheEvenet">
-           <p>In alias aperiam. Placeat tempore facere. Officiis voluptate ipsam vel eveniet est dolor et totam porro. Perspiciatis ad omnis fugit molestiae recusandae possimus. Aut consectetur id quis. In inventore consequatur ad voluptate cupiditate debitis accusamus repellat cumque.</p>
+           <p>ANDROMEDA merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.</p>
          </div>
 
          <div class="col-lg-3 col-md-6 footer-links">
-           <h4>Useful Links</h4>
+           <h4>PRODUK</h4>
            <ul>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="#">Andromeda SP</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="#">Andromeda Pos</a></li>
+             <!-- <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
              <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
            </ul>
          </div>
 
          <div class="col-lg-3 col-md-6 footer-links">
-           <h4>Useful Links</h4>
+           <h4>Tentang Kami</h4>
            <ul>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="#">Perusahaan</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="#">Partner Resmi</a></li>
+             <!-- <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
              <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
            </ul>
          </div>
 
