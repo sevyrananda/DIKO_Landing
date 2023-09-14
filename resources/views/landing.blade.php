@@ -38,12 +38,12 @@
       </div> -->
       <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
         <h1 style="opacity: 1;">
-          Great Things Coming Soon
+        Bergabunglah dengan Koperasi Simpan Pinjam Kami 
         </h1>
         <h2>Meningkatkan Efisiensi, Aksesibilitas, dan Keamanan Transaksi Koperasi</h2>
       </div>
       <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-        <img src="{{url('Techie')}}/assets/img/akn.png" class="img-fluid animated" alt="">
+        <img src="{{url('Techie')}}/assets/img/landingg.png" class="img-fluid animated" alt="">
       </div>
     </div>
   </div>
@@ -58,7 +58,7 @@
 
       <div class="row">
         <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="150">
-          <img src="{{url('Techie')}}/assets/img/software.png" class="img-fluid" alt="">
+          <img src="{{url('Techie')}}/assets/img/2.png" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
           <h3>Mudahkan Laporan Akuntansi Anda dengan</h3>
@@ -230,7 +230,7 @@
           </div>
         </div>
         <div class="image col-lg-6 order-1 order-lg-2 " data-aos="zoom-in" data-aos-delay="100">
-          <img src="{{url('Techie')}}/assets/img/Homepage.png" alt="" class="img-fluid">
+          <img src="{{url('Techie')}}/assets/img/landing3.png" alt="" class="img-fluid">
         </div>
       </div>
 
@@ -244,12 +244,12 @@
     
     <div class="container" data-aos="fade-up">
       <div class="section-title">
-        <h2>Kelola aktivitas produksi Anda secara menyeluruh</h2>
+        <h2>Kelola aktivitas koperasi Anda secara menyeluruh</h2>
       </div>
       <div class="row">
         <div class="col-lg-15" data-aos="zoom-in" data-aos-delay="100">
           <div class="clickable-content" onclick="toggleContent()">
-            <img src="{{url('Techie')}}/assets/img/koperasi.png" alt="Clickable Image" class="img-fluid">
+            <img src="{{url('Techie')}}/assets/img/landing2.png" alt="Clickable Image" class="img-fluid">
             <!-- <p id="hidden-content" style="display: none;">This is the hidden content that appears when you click the image.</p> -->
           </div>
         </div>
@@ -354,13 +354,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/invoice.jpg" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/1.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>App 1</h4>
               <p>App</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/invoice.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -368,13 +368,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/invoice2.jpg" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/3.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Web 3</h4>
               <p>Web</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/invoice2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -382,13 +382,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/purchase.jpg" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/4.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>App 2</h4>
               <p>App</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/purchase.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -396,13 +396,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/purchase2.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/5.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Card 2</h4>
               <p>Card</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/purchase2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -410,13 +410,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/bank.jpg" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/6.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Web 2</h4>
               <p>Web</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/bank.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -424,13 +424,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/bank2.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/7.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>App 3</h4>
               <p>App</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/bank2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -438,13 +438,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/inventory.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/8.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Card 1</h4>
               <p>Card</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/inventory.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -452,13 +452,13 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/BalanceSheet.JPG" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/9.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Card 3</h4>
               <p>Card</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/BalanceSheet.JPG" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/9.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
