@@ -19,7 +19,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Tentang MarsTech</h4>
+        <h4>Tentang DIKO</h4>
         <ul>
           <li><a href="#">Perusahaan</a></li>
           <li><a href="#">Partner Resmi</a></li>
@@ -35,7 +35,7 @@
             Gadang - Sukun - Kota Malang - Jawa Timur<br><br>
             <strong>TELP:</strong> 0811-2501-827<br>
             <strong>WA:</strong> 0811-2501-827<br>
-            <strong>Email:</strong> cs@marstech.co.id<br>
+            <strong>Email:</strong> cs@DIKO.co.id<br>
           </p>
 
       </div>
