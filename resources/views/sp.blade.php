@@ -83,18 +83,18 @@
   </section><!-- End Featured Services Section -->
 
   <!-- ======= About Section ======= -->
-  <!-- <section id="about" class="about">
+  <section id="about" class="about">
     <div class="container" data-aos="fade-up">
 
-      <div class="section-header">
-        <h2 style=" font-family: Verdana, Geneva, Tahoma, sans-serif;">About Us</h2>
-        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
-        Selamat datang di Layanan Simpan Pinjam Terbaik kami!
+      <!-- <div class="section-header"> -->
+        <!-- <h2 style=" font-family: Verdana, Geneva, Tahoma, sans-serif;">About Us</h2> -->
+        <!-- <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> -->
+        <!-- Selamat datang di Layanan Simpan Pinjam Terbaik kami!
         Kami adalah teman finansial Anda, siap membantu Anda meraih sukses dan impian Anda. #ProspekGemilang #SuksesAndaAdalahMisiKami
         </p>
-      </div>
+      </div> -->
 
-      <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200"> -->
+      <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
 
         <!-- <div class="col-lg-5">
             <div class="about-img">
@@ -557,8 +557,8 @@
               
               <!-- <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt=""> -->
             
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/register.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/register.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/cari.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/cari.jpg" class="img-fluid" alt="">
               </a>
 
             </div>
@@ -600,8 +600,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/jadwal angsuran.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/jadwal angsuran.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/neraca.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/neraca.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -609,9 +609,9 @@
                 <i class="bi bi-bar-chart"></i> <!-- Ikon grafik batang -->
               </div>
               <a href="#" class="stretched-link">
-                <h3>Jadwal Angsuran</h3>
+                <h3>Neraca</h3>
               </a>
-              <p> Merencanakan jadwal pembayaran, ketepatan pembayaran dan transparasi berapa total jumlah yang harus dibayarkan selama masa pinjaman</p>
+              <p>Mencatat dan melacak semua aset yang dimiliki. Mencakup uang tunai, tabungan anggota, pinjaman yang diberikan.</p>
             </div>
           </div>
         </div><!-- End Service Item -->
@@ -619,8 +619,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/buku simpanan.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/buku simpanan.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/simpanan.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/simpanan.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -628,7 +628,7 @@
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Buku Simpanan</h3>
+                <h3>Simpanan Berjangka</h3>
               </a>
               <p>Membantu nasabah dalam mengelola dan mengoptimalkan simpanan mereka serta memberikan visibilitas yang lebih baik tentang kondisi keuangan</p>
               <a href="#" class="stretched-link"></a>
@@ -639,8 +639,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/cetak bilyet.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/cetak bilyet.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/kasir.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/kasir.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -648,9 +648,9 @@
                 <i class="bi bi-calendar4-week"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Bilyet Simpanan Berjangka</h3>
+                <h3>Kasir</h3>
               </a>
-              <p>Mencatat detail penting dari simpanan berjangka, termasuk jumlah setoran, tingkat bunga, tanggal jatuh tempo, dan informasi identifikasi nasabah</p>
+              <p>Mencatat pinjaman nasabah, menghitung total tabungan nasabah dan keterangan mutasi anggota</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div>
@@ -659,8 +659,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/laporan.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/laporan.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/pembukuan.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/pembukuan.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -668,7 +668,7 @@
                 <i class="bi bi-chat-square-text"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Laporan</h3>
+                <h3>Pembukuan</h3>
               </a>
               <p>Membantu bisnis dalam melacak pendapatan, biaya, laba, dan arus kas</p>
               <a href="#" class="stretched-link"></a>

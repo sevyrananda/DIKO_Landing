@@ -418,6 +418,62 @@
     </div>
   </section><!-- End Featured Services Section -->
 
+  <!-- ======= Recent Blog Posts Section ======= -->
+  <section id="recent-blog-posts" class="recent-blog-posts">
+
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-header">
+        <h2>Blog</h2>
+        <!-- <p>Recent posts form our Blog</p> -->
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+          <div class="post-box">
+            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/koperasi2.jpg" class="img-fluid" alt=""></div>
+            <div class="meta">
+              <span class="post-date">12 Agustus 2023</span>
+              <!-- <span class="post-author"> / Julia Parker</span> -->
+            </div>
+            <h3 class="post-title">Istilah dan Prinsip Dasar Koperasi</h3>
+            <p>Pengertian Koperasi adalah suatu badan usaha (organisasi ekonomi) yang dimiliki dan dioperasikan oleh para anggotanya untuk memenuhi kepentingan bersama di bidang ekonomi.</p>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
+          <div class="post-box">
+            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/simpanpinjam.jpg" class="img-fluid" alt=""></div>
+            <div class="meta">
+              <span class="post-date">4 Agustus 2023</span>
+              <!-- <span class="post-author"> / Mario Douglas</span> -->
+            </div>
+            <h3 class="post-title">Usaha Simpan Pinjam</h3>
+            <p>Modul-modul dalam usaha simpan pinjam sudah sesuai dengan kebutuhan yang ada dalam pengelolan koperasi diantaranya sebagai berikut :</p>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+          </div>
+        </div>
+
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="600">
+          <div class="post-box">
+            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/sejarah.jpg" class="img-fluid" alt=""></div>
+            <div class="meta">
+              <span class="post-date">10 Maret 2023</span>
+              <!-- <span class="post-author"> / Lisa Hunter</span> -->
+            </div>
+            <h3 class="post-title">Sejarah Koperasi di Indonesia</h3>
+            <p>Sejarah singkat gerakan koperasi bermula pada abad ke-20 yang pada umumnya merupakan hasil dari usaha yang tidak spontan dan tidak dilakukan oleh orang-orang yang sangat kaya. </p>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+  </section><!-- End Recent Blog Posts Section -->
+
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact">
     <div class="container">
