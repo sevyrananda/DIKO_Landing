@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dikc2752/public_html/
+    - export DEPLOYPATH=/home/dikc2752/public_html/diko
     - /bin/cp -R * $DEPLOYPATH
