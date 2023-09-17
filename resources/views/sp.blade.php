@@ -83,8 +83,8 @@
   </section><!-- End Featured Services Section -->
 
   <!-- ======= About Section ======= -->
-  <!-- <section id="about" class="about"> -->
-    <!-- <div class="container" data-aos="fade-up"> -->
+  <section id="about" class="about">
+    <div class="container" data-aos="fade-up">
 
       <!-- <div class="section-header"> -->
         <!-- <h2 style=" font-family: Verdana, Geneva, Tahoma, sans-serif;">About Us</h2> -->
@@ -94,7 +94,7 @@
         </p>
       </div> -->
 
-      <!-- <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200"> -->
+      <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
 
         <!-- <div class="col-lg-5">
             <div class="about-img">
@@ -1405,7 +1405,7 @@
       <div class="row gy-5 gx-lg-5">
         <div class="col-lg-6">
           <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" 
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sDIKO!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" 
               width="100%" 
               height="100%" 
               style="border:0;" 
@@ -1435,7 +1435,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h4>Alamat Email:</h4>
-                <p>cs@marstech.co.id</p>
+                <p>cs@DIKO.co.id</p>
               </div>
             </div><!-- End Info Item -->
 

@@ -6,7 +6,7 @@
     <div class="row">
 
       <div class="col-lg-3 col-md-6 footer-contact">
-        <h3>MARSTECH</h3>
+        <h3>DIKO</h3>
         <p>
           Office: JL. Margatama Asri IV No. 3<br>
           Kota Madiun<br>
@@ -17,7 +17,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Tentang MarsTech</h4>
+        <h4>Tentang DIKO</h4>
         <ul>
           <li><i class="bx bx-chevron-right"></i><a href="#">Perusahaan</a></li>
           <li><i class="bx bx-chevron-right"></i><a href="#">Partner Resmi</a></li>
@@ -41,7 +41,7 @@
   <div class="copyright-wrap d-md-flex py-4">
     <div class="me-md-auto text-center text-md-start">
       <div class="copyright">
-        &copy; Copyright <strong><span>MARSTECH</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>DIKO</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
