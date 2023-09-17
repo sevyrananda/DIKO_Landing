@@ -41,6 +41,10 @@
         Bergabunglah dengan Koperasi Simpan Pinjam Kami 
         </h1>
         <h2>Meningkatkan Efisiensi, Aksesibilitas, dan Keamanan Transaksi Koperasi</h2>
+        <!-- <row>
+          <a href="{{ route('pos') }}" class="read-more">Andromeda POS</a>
+          <a href="{{ route('sp') }}" class="read-more">Andromeda SP</a>
+        </row> -->
       </div>
       <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
         <img src="{{url('Techie')}}/assets/img/landingg.png" class="img-fluid animated" alt="">
