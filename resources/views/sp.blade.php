@@ -567,7 +567,7 @@
                 <i class="bi bi-search"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Cari Register Nasabah</h3>
+                <h3>Registrasi Nasabah</h3>
               </a>
               <p> Identifikasi dan kelola data nasabah dengan cepat dan akurat.
               </p>
