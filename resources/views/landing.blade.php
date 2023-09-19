@@ -349,10 +349,10 @@
         <div class="col-lg-12 d-flex justify-content-center">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">Invoicing</li>
-            <li data-filter=".filter-card">Purchase</li>
-            <li data-filter=".filter-web">Sales</li>
-            <!-- <li data-filter=".filter-web">Bank Reconciliation</li> -->
+            <li data-filter=".filter-simpanan">Simpanan</li>
+            <li data-filter=".filter-pinjaman">Pinjaman</li>
+            <li data-filter=".filter-accounting">accounting</li>
+            <!-- <li data-filter=".filter-accounting">Bank Reconciliation</li> -->
           
           </ul>
         </div>
@@ -360,127 +360,127 @@
 
       <div class="row portfolio-container">
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup3.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/1dashboard.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
+              <h4>Laporan Ringkasan</h4>
+              <p>Tampilan utama penampil ringkasan update terkini</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/1dashboard.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Laporan Ringkasan"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-simpanan">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup4.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/2kas.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
+              <h4>Kas</h4>
+              <p>Penerimaan dan pemasukan kas serta mutasi kas dan teller volt</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/2kas.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Kas"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup5.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/3kasir.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
+              <h4>Kasir</h4>
+              <p>Transaksi kasir berupa mutasi anggota, pinjaman, simpanan berjangka dan tabungan</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/3kasir.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Kasir"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup6.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/4master.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
+              <h4>Data Master</h4>
+              <p>Kebutuhan data tetap yang diperlukan dalam setiap transaksi</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup6.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/4master.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Data Master"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-pinjaman filter-simpanan filter-accounting">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup7.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/5nasabah.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
+              <h4>Nasabah</h4>
+              <p>Data-data yang dibutuhkan nasabah untuk registrasi</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup7.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/5nasabah.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Nasabah"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup8.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/6pembukuan.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
+              <h4>Pembukuan</h4>
+              <p>Seluruh laporan keuangan dan transaksi yang dilakukan</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/6pembukuan.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Pembukuan"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-pinjaman">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup5.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/7pinjaman.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
+              <h4>Pinjaman</h4>
+              <p>Keperluan tracking seluruh transaksi pinjaman</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup5.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/7pinjaman.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Pinjaman"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-simpanan">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup4.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/8simpanan.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
+              <h4>Simpanan</h4>
+              <p>Pembukaan rekening, saldo, sampai dengan rekapitulasi bunga</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup4.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/8simpanan.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Simpanan"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
           <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/mockup.png" class="img-fluid" alt="">
+            <img src="{{url('Techie')}}/assets/img/portfolio/9setup.png" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
+              <h4>Setup</h4>
+              <p>pengaturan konfigurasi kebutuhan koperasi</p>
             </div>
             <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/mockup.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="{{url('Techie')}}/assets/img/portfolio/9setup.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Setup"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -679,7 +679,7 @@
       <div class="row">
 
         <div class="col-lg-15 ">
-          <iframe class="mb-4 mb-lg-0" src="https://maps.app.goo.gl/d8hhi7YbWXf8uqtz7" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+          <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sDIKO!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
         </div>
 
         
