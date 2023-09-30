@@ -8,9 +8,15 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
+          <li class="dropdown">
+            <a href="#" class="nav-link scrollto">Product <i class="bi bi-chevron-down"></i></a>
+            <ul class="dropdown-menu">
+              <li><a class="nav-link scrollto" href="{{ route('sp') }}">DIKO SP</a></li>
+              <li><a class="nav-link scrollto" href="{{ route('pos') }}">DIKO POS</a></li>
+            </ul>
+          </li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Features</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Product</a></li>
           <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="{{ route('landing') }}">LOGIN</a></li>

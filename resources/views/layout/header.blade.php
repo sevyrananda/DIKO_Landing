@@ -17,7 +17,7 @@
         <ul>
           <li><a class="nav-link scrollto" href="index.html#about" >Beranda</a></li>
           <li><a class="nav-link scrollto" href="index.html#features">Fitur</a></li>
-          <li><a class="nav-link scrollto" href="index.html#features">Harga</a></li>
+          <li><a class="nav-link scrollto" href="index.html#pricing">Harga</a></li>
           <li><a class="nav-link scrollto" href="index.html#features">Plugin</a></li>
           <!-- <li><a class="nav-link scrollto" href="index.html#team">Blog</a></li> -->
           <!-- <li><a href="blog.html">Blog</a></li> -->
@@ -27,7 +27,7 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->
-      <a class="btn-getstarted scrollto" style="margin-right: 50px; background-color:#144B9A;" href="{{ route('landing') }}">Login</a>
+      <a class="btn-getstarted scrollto" style="margin-right: 50px; background-color:#144B9A;" href="{{ route('landing') }}">DOWNLOAD</a>
       <!-- <a class="btn-getstarted scrollto" style="margin-right: 50px;" href="index.html#about">Daftar</a> -->
     </div>
   </header><!-- End Header -->

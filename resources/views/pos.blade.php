@@ -168,16 +168,159 @@
     </div>
   </section><!-- End Features Section -->
 
-
-
-  <!-- ======= Pricing Section ======= -->
-  <!-- <section id="pricing" class="pricing">
+   <!-- ======= Services Section ======= -->
+   <section id="services" class="services">
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
-        <h2>Harga Diko POS</h2>
-        <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas
-          asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
+        <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 500;">Fitur-fitur terbaik kami akan mempermudah bisnis Anda.</h2>
+        <p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 16px; color: #666;">Perhitungan Akurat,
+          Keputusan Bijak, Produk Akuntansi Terpercaya</p>
+      </div>
+
+      <div class="row gy-5">
+
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+          <div class="service-item">
+            <div class="img">
+
+              
+              <!-- <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt=""> -->
+            
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/cari.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/cari.jpg" class="img-fluid" alt="">
+              </a>
+
+            </div>
+            <div class="details position-relative">
+              <div class="icon">
+                <i class="bi bi-search"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Registrasi Nasabah</h3>
+              </a>
+              <p> Identifikasi dan kelola data nasabah dengan cepat dan akurat.
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- End Service Item -->
+        
+
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
+          <div class="service-item">
+            <div class="img">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/kas.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/kas.jpg" class="img-fluid" alt="">
+              </a>
+            </div>
+            <div class="details position-relative">
+              <div class="icon">
+                <i class="bi bi-arrow-up"></i>
+                <i class="bi bi-arrow-down"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Kas Bank</h3>
+              </a>
+              <p>Mencatat transaksi uang tunai masuk dan keluar untuk melacak arus kas dan memudahkan pengelolaan keuangan.</p>
+            </div>
+          </div>
+        </div><!-- End Service Item -->
+
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+          <div class="service-item">
+            <div class="img">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/neraca.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/neraca.png" class="img-fluid" alt="">
+              </a>
+            </div>
+            <div class="details position-relative">
+              <div class="icon">
+                <i class="bi bi-bar-chart"></i> <!-- Ikon grafik batang -->
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Neraca</h3>
+              </a>
+              <p>Mencatat dan melacak semua aset yang dimiliki. Mencakup uang tunai, tabungan anggota, pinjaman yang diberikan.</p>
+            </div>
+          </div>
+        </div><!-- End Service Item -->
+
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="service-item">
+            <div class="img">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/simpanan.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/simpanan.png" class="img-fluid" alt="">
+              </a>
+            </div>
+            <div class="details position-relative">
+              <div class="icon">
+                <i class="bi bi-bounding-box-circles"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Simpanan Berjangka</h3>
+              </a>
+              <p>Membantu nasabah dalam mengelola dan mengoptimalkan simpanan mereka serta memberikan visibilitas yang lebih baik tentang kondisi keuangan</p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div>
+        </div><!-- End Service Item -->
+
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
+          <div class="service-item">
+            <div class="img">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/kasir.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/kasir.png" class="img-fluid" alt="">
+              </a>
+            </div>
+            <div class="details position-relative">
+              <div class="icon">
+                <i class="bi bi-calendar4-week"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Kasir</h3>
+              </a>
+              <p>Mencatat pinjaman nasabah, menghitung total tabungan nasabah dan keterangan mutasi anggota</p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div>
+        </div><!-- End Service Item -->
+
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
+          <div class="service-item">
+            <div class="img">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/pembukuan.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/pembukuan.png" class="img-fluid" alt="">
+              </a>
+            </div>
+            <div class="details position-relative">
+              <div class="icon">
+                <i class="bi bi-chat-square-text"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Pembukuan</h3>
+              </a>
+              <p>Membantu bisnis dalam melacak pendapatan, biaya, laba, dan arus kas</p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div>
+        </div><!-- End Service Item -->
+
+      </div>
+
+    </div>
+  </section><!-- End Services Section -->
+
+
+
+  {{-- ======= Pricing Section =======  --}}
+  <section id="pricing" class="pricing">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-header">
+        <h2>Our Pricing</h2>
+        {{-- <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas
+          asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p> --}}
       </div>
 
       <div class="row gy-4">
@@ -256,8 +399,8 @@
       </div>
 
     </div>
-  </section> -->
-  <!-- End Pricing Section -->
+  </section> 
+  <End Pricing Section>
 
   <!-- ======= Testimonials Section ======= -->
   <!-- <section id="testimonials" class="testimonials">
