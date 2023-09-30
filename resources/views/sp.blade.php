@@ -1051,7 +1051,7 @@
   </section><!-- End F.A.Q Section -->
 
   <!-- ======= Portfolio Section ======= -->
-  <section id="portfolio" class="portfolio" data-aos="fade-up">
+  {{-- <section id="portfolio" class="portfolio" data-aos="fade-up">
 
     <div class="container">
 
@@ -1202,7 +1202,8 @@
       </div>
 
     </div>
-  </section><!-- End Portfolio Section -->
+  </section> --}}
+  <!-- End Portfolio Section -->
 
   <!-- <section id="card-section" class="card-section" style="background-color: #F8F8F8;">
   <div class="container">
@@ -1344,7 +1345,7 @@
   <!-- </section>End Team Section -->
 
   <!-- ======= Recent Blog Posts Section ======= -->
-  <section id="recent-blog-posts" class="recent-blog-posts">
+  {{-- <section id="recent-blog-posts" class="recent-blog-posts">
 
     <div class="container" data-aos="fade-up">
 
@@ -1397,7 +1398,8 @@
       </div>
     </div>
 
-  </section><!-- End Recent Blog Posts Section -->
+  </section> --}}
+  <!-- End Recent Blog Posts Section -->
 
   <!-- ======= Contact Section ======= -->
    <section id="contact" class="contact">

@@ -337,7 +337,7 @@
   </section><!-- End Testimonials Section -->
 
   <!-- ======= Portfolio Section ======= -->
-  <section id="portfolio" class="portfolio">
+  {{-- <section id="portfolio" class="portfolio">
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
@@ -487,7 +487,8 @@
         </div>
 
     </div>
-  </section><!-- End Portfolio Section -->
+  </section> --}}
+  <!-- End Portfolio Section -->
 
   <!-- ======= Pricing Section ======= -->
   <!-- <section id="pricing" class="pricing section-bg">

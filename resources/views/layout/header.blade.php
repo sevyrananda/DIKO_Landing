@@ -17,6 +17,8 @@
         <ul>
           <li><a class="nav-link scrollto" href="index.html#about" >Beranda</a></li>
           <li><a class="nav-link scrollto" href="index.html#features">Fitur</a></li>
+          <li><a class="nav-link scrollto" href="index.html#features">Harga</a></li>
+          <li><a class="nav-link scrollto" href="index.html#features">Plugin</a></li>
           <!-- <li><a class="nav-link scrollto" href="index.html#team">Blog</a></li> -->
           <!-- <li><a href="blog.html">Blog</a></li> -->
           <!-- <li><a class="nav-link scrollto" href="index.html#testimonials">Testimonial</a></li>
