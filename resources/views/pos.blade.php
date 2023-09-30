@@ -423,12 +423,12 @@
 
 <div class="container"> --}}
 
-  <!-- <div class="section-header">
+  <div class="section-header">
     <h2>DIKO is your Answer</h2>
     <p>Dengan Software Akuntansi DIKO versi lite, Anda tidak perlu khawatir tentang keterbatasan akses perangkat, sehingga Anda dapat menjalankan bisnis Anda dengan lebih efisien dan responsif terhadap perubahan dalam keadaan.</p>
   </div>
 
-</div> -->
+</div>
 
 {{-- <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
 
