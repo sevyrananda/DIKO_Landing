@@ -15,6 +15,29 @@
         <ul>
           <li><a href="{{ route('sp') }}">DIKO SP</a></li>
           <li><a href="{{ route('pos') }}">DIKO Pos</a></li>
+          <li>
+            <img 
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_of_Ministry_of_Communication_and_Information_Technology_of_the_Republic_of_Indonesia.svg/2060px-Logo_of_Ministry_of_Communication_and_Information_Technology_of_the_Republic_of_Indonesia.svg.png" 
+              class="img-fluid animated" 
+              alt=""  
+              style="height:55px; padding:10px; margin-top:50px;"
+              >
+            <img src="https://idxcoop.kemenkopukm.go.id/images/logo-idxcoop.png" 
+              class="img-fluid animated" 
+              alt="" 
+              style="height:55px; padding:10px; margin-top:50px;"
+            >
+            <img src="https://qms-consulting.id/wp-content/uploads/2020/12/1_G1Yc_22hHBfgGlNdRJpBDw.jpeg" 
+              class="img-fluid animated" 
+              alt="" 
+              style="height:55px; padding:10px; margin-top:50px;"
+            >
+            <img src="https://1.bp.blogspot.com/-uprDrIHInls/X9N5GuSqiFI/AAAAAAAAHkM/8CMLFZSv-IIbwo4-vbGeo5xubP8riGhigCLcBGAsYHQ/s1000/bangga%2Bbuatan%2Bindonesia-01.png" 
+              class="img-fluid animated" 
+              alt="" 
+              style="height:55px; padding:10px; margin-top:50px;"
+            >
+          </li>
         </ul>
       </div>
 
@@ -56,8 +79,8 @@
       <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
       <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
       <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-      <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+      {{-- <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
+      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a> --}}
     </div>
   </div>
 </div>
