@@ -39,12 +39,7 @@
 
   @section('css')
   @show
-  <!-- =======================================================
-  * Template Name: HeroBiz - v2.3.1
-  * Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  
 </head>
 
 <body>
@@ -54,18 +49,12 @@
 
   <!-- ======= Footer ======= -->
 
-  <!-- <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
-      class="bi bi-arrow-up-short"></i></a>
-        -->
   <div class="floating-ascend-button">
-    <a href="http://wa.me/+62813xxxxxxxx" class="scroll-top d-flex align-items-center justify-content-center" style="padding: 10px;">
+    <a href="https://api.whatsapp.com/send?phone=+62811363609" class="scroll-top d-flex align-items-center justify-content-center" style="padding: 10px;">
       <i class="bi bi-whatsapp"></i>
     </a>
   </div>
-
-
-
-
+  
 
   <div id="preloader"></div>
 

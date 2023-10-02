@@ -69,10 +69,6 @@
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
           <h3>Mudahkan Laporan Akuntansi Anda dengan</h3>
-          <!-- <p class="fst-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p> -->
           <ul>
             <li><i class="bi bi-check-circle"></i>Akses yang mudah</li>
             <li><i class="bi bi-check-circle"></i>Biaya yang terjangkau</li>
@@ -107,13 +103,6 @@
           <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1" class="purecounter"></span>
           <p>Bidang Usaha</p>
         </div>
-
-        <!-- <div class="col-lg-3 col-6 text-center">
-        <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-        <p>Hard Workers</p>
-      </div>
-    </div> -->
-
       </div>
   </section><!-- End Counts Section -->
 
@@ -123,7 +112,6 @@
 
       <div class="section-title">
         <h2>Lebih dari sekedar aplikasi pencatatan keuangan</h2>
-        <!-- <p>Nikmati layanan yang kami berikan</p> -->
       </div>
 
       <div class="row gy-4 justify-content-center">
@@ -166,19 +154,6 @@
           </div>
         </div>
 
-        <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-          <div class="icon-box iconbox-yellow">
-            <div class="icon">
-              <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-                <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,503.46388370962813C374.79870501325706,506.71871716319447,464.8034551963731,527.1746412648533,510.4981551193396,467.86667711651364C555.9287308511215,408.9015244558933,512.6030010748507,327.5744911775523,490.211057578863,256.5855673507754C471.097692560561,195.9906835881958,447.69079081568157,138.11976852964426,395.19560036434837,102.3242989838813C329.3053358748298,57.3949838291264,248.02791733380457,8.279543830951368,175.87071277845988,42.242879143198664C103.41431057327972,76.34704239035025,93.79494320519305,170.9812938413882,81.28167332365135,250.07896920659033C70.17666984294237,320.27484674793965,64.84698225790005,396.69656628748305,111.28512138212992,450.4950937839243C156.20124167950087,502.5303643271138,231.32542653798444,500.4755392045468,300,503.46388370962813"></path>
-              </svg>
-              <i class="bx bx-layer"></i>
-            </div>
-            <h4><a href="">Keamanan Data</a></h4>
-            <p>Data Anda dilindungi dengan sistem keamanan enkripsi secara perbankan</p>
-          </div>
-        </div> -->
-
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
           <div class="icon-box iconbox-red">
             <div class="icon">
@@ -191,22 +166,8 @@
             <p>Data Anda dilindungi dengan sistem keamanan enkripsi secara perbankan.</p>
           </div>
         </div>
-
-        <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
-          <div class="icon-box iconbox-teal">
-            <div class="icon">
-              <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-                <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,566.797414625762C385.7384707136149,576.1784315230908,478.7894351017131,552.8928747891023,531.9192734346935,484.94944893311C584.6109503024035,417.5663521118492,582.489472248146,322.67544863468447,553.9536738515405,242.03673114598146C529.1557734026468,171.96086150256528,465.24506316201064,127.66468636344209,395.9583748389544,100.7403814666027C334.2173773831606,76.7482773500951,269.4350130405921,84.62216499799875,207.1952322260088,107.2889140133804C132.92018162631612,134.33871894543012,41.79353780512637,160.00259165414826,22.644507872594943,236.69541883565114C3.319112789854554,314.0945973066697,72.72355303640163,379.243833228382,124.04198916343866,440.3218312028393C172.9286146004772,498.5055451809895,224.45579914871206,558.5317968840102,300,566.797414625762"></path>
-              </svg>
-              <i class="bx bx-arch"></i>
-            </div>
-            <h4><a href="">Cash Flow Forecasting</a></h4>
-            <p>Cash flow forecasting (prakiraan arus kas) membantu perusahaan memprediksi pendapatan, keuntungan, biaya pengeluaran, hingga kerugian bisnis mereka di masa depan.</p>
-          </div>
-        </div> -->
-
+        </div> 
       </div>
-
     </div>
   </section><!-- End Services Section -->
 
@@ -216,7 +177,6 @@
 
       <div class="section-title">
         <h2>Motto</h2>
-        <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
       </div>
 
       <div class="row">
@@ -336,245 +296,6 @@
     </div>
   </section><!-- End Testimonials Section -->
 
-  <!-- ======= Portfolio Section ======= -->
-  {{-- <section id="portfolio" class="portfolio">
-    <div class="container" data-aos="fade-up">
-
-      <div class="section-title">
-        <h2>Features</h2>
-        <p>Semua kebutuhan bisnis Anda, dalam satu Aplikasi</p>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-12 d-flex justify-content-center">
-          <ul id="portfolio-flters">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-simpanan">Simpanan</li>
-            <li data-filter=".filter-pinjaman">Pinjaman</li>
-            <li data-filter=".filter-accounting">accounting</li>
-            <!-- <li data-filter=".filter-accounting">Bank Reconciliation</li> -->
-          
-          </ul>
-        </div>
-      </div>
-
-      <div class="row portfolio-container">
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/1dashboard.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Laporan Ringkasan</h4>
-              <p>Tampilan utama penampil ringkasan update terkini</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/1dashboard.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Laporan Ringkasan"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-simpanan">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/2kas.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Kas</h4>
-              <p>Penerimaan dan pemasukan kas serta mutasi kas dan teller volt</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/2kas.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Kas"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/3kasir.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Kasir</h4>
-              <p>Transaksi kasir berupa mutasi anggota, pinjaman, simpanan berjangka dan tabungan</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/3kasir.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Kasir"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/4master.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Data Master</h4>
-              <p>Kebutuhan data tetap yang diperlukan dalam setiap transaksi</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/4master.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Data Master"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-pinjaman filter-simpanan filter-accounting">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/5nasabah.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Nasabah</h4>
-              <p>Data-data yang dibutuhkan nasabah untuk registrasi</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/5nasabah.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Nasabah"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/6pembukuan.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Pembukuan</h4>
-              <p>Seluruh laporan keuangan dan transaksi yang dilakukan</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/6pembukuan.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Pembukuan"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-pinjaman">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/7pinjaman.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Pinjaman</h4>
-              <p>Keperluan tracking seluruh transaksi pinjaman</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/7pinjaman.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Pinjaman"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-simpanan">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/8simpanan.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Simpanan</h4>
-              <p>Pembukaan rekening, saldo, sampai dengan rekapitulasi bunga</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/8simpanan.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Simpanan"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-accounting">
-          <div class="portfolio-wrap">
-            <img src="{{url('Techie')}}/assets/img/portfolio/9setup.png" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Setup</h4>
-              <p>pengaturan konfigurasi kebutuhan koperasi</p>
-            </div>
-            <div class="portfolio-links">
-              <a href="{{url('Techie')}}/assets/img/portfolio/9setup.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Setup"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-
-    </div>
-  </section> --}}
-  <!-- End Portfolio Section -->
-
-  <!-- ======= Pricing Section ======= -->
-  <!-- <section id="pricing" class="pricing section-bg">
-    <div class="container" data-aos="fade-up">
-
-      <div class="section-title">
-        <h2>Pricing</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-      </div>
-
-      <div class="row">
-
-        <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-          <div class="box">
-            <h3>Free</h3>
-            <h4><sup>$</sup>0<span> / month</span></h4>
-            <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li class="na">Pharetra massa</li>
-              <li class="na">Massa ultricies mi</li>
-            </ul>
-            <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
-          <div class="box featured">
-            <h3>Business</h3>
-            <h4><sup>$</sup>19<span> / month</span></h4>
-            <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li class="na">Massa ultricies mi</li>
-            </ul>
-            <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
-          <div class="box">
-            <h3>Developer</h3>
-            <h4><sup>$</sup>29<span> / month</span></h4>
-            <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li>Massa ultricies mi</li>
-            </ul>
-            <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
-          <div class="box">
-            <span class="advanced">Advanced</span>
-            <h3>Ultimate</h3>
-            <h4><sup>$</sup>49<span> / month</span></h4>
-            <ul>
-              <li>Aida dere</li>
-              <li>Nec feugiat nisl</li>
-              <li>Nulla at volutpat dola</li>
-              <li>Pharetra massa</li>
-              <li>Massa ultricies mi</li>
-            </ul>
-            <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </div> -->
-  </section><!-- End Pricing Section -->
-
   <!-- ======= Frequently Asked Questions Section ======= -->
   <section id="faq" class="faq">
     <div class="container" data-aos="fade-up">
@@ -616,25 +337,6 @@
               </p>
             </div>
           </li>
-
-          <!-- <li data-aos="fade-up" data-aos-delay="400">
-          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-          <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-            <p>
-              Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
-            </p>
-          </div>
-        </li>
-
-        <li data-aos="fade-up" data-aos-delay="500">
-          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-          <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-            <p>
-              Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
-            </p>
-          </div>
-        </li> -->
-
         </ul>
       </div>
 
@@ -682,9 +384,6 @@
         <div class="col-lg-15 ">
           <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sDIKO!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
         </div>
-
-        
-
     </div>
   </section><!-- End Contact Section -->
 

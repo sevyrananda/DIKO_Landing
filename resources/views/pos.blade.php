@@ -44,33 +44,11 @@
       </div>
   </section><!-- End About Section -->
 
-  <!-- ======= Clients Section ======= -->
-  <!-- <section id="clients" class="clients"> -->
-    <!-- <div class="container" data-aos="zoom-out" style="margin-top: 100px;">
-      <div class="clients-slider swiper">
-        <div class="swiper-wrapper align-items-center">
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-1.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-2.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-3.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-4.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-5.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-6.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-7.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-8.png') }}" class="img-fluid" alt=""></div>
-        </div>
-      </div>
-
-    </div> -->
-  <!-- </section> -->
-  <!-- End Clients Section -->
-
   <!-- ======= Features Section ======= -->
   <section id="features" class="features">
     <div class="container" data-aos="fade-up">
       <div class="section-header">
         <h2>Fitur Diko POS</h2>
-        <!-- <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas
-          asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p> -->
       </div>
       <ul class="nav nav-tabs row gy-4 d-flex justify-content-center">
         <li class="nav-item col-6 col-md-4 col-lg-2">
@@ -183,14 +161,10 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-
-              
               <!-- <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt=""> -->
-            
               <a href="{{url('HeroBiz')}}/assets/img/fitur/cari.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
                 <img src="{{url('HeroBiz')}}/assets/img/fitur/cari.jpg" class="img-fluid" alt="">
               </a>
-
             </div>
             <div class="details position-relative">
               <div class="icon">
@@ -305,9 +279,7 @@
             </div>
           </div>
         </div><!-- End Service Item -->
-
       </div>
-
     </div>
   </section><!-- End Services Section -->
 
@@ -319,8 +291,6 @@
 
       <div class="section-header">
         <h2>Our Pricing</h2>
-        {{-- <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas
-          asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p> --}}
       </div>
 
       <div class="row gy-4">
@@ -350,7 +320,6 @@
 
         <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
           <div class="pricing-item featured">
-
             <div class="pricing-header">
               <h3>Business Plan</h3>
               <h4><sup>$</sup>29<span> / month</span></h4>
@@ -388,120 +357,80 @@
               <li><i class="bi bi-dot"></i> <span>Pharetra massa massa ultricies</span></li>
               <li><i class="bi bi-dot"></i> <span>Massa ultricies mi quis hendrerit</span></li>
             </ul>
-
             <div class="text-center mt-auto">
               <a href="#" class="buy-btn">Buy Now</a>
             </div>
-
           </div>
         </div>
-
       </div>
-
     </div>
   </section> 
-  <End Pricing Section>
+  {{-- <End Pricing Section> --}}
 
-  <!-- ======= Testimonials Section ======= -->
-  <!-- <section id="testimonials" class="testimonials">
-    <div class="container" data-aos="fade-up">
-      <h2 style="color:#fff; text-align:center;">Testimonial</h2>
-      <div class="testimonials-slider swiper">
-        <div class="swiper-wrapper">
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
-              <h3>Saul Goodman</h3>
-              <h4>Ceo &amp; Founder</h4>
-              <div class="stars">
-                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-              </div>
-              <p>
-                <i class="bi bi-quote quote-icon-left"></i>
-                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium
-                quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                <i class="bi bi-quote quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
-              <h3>Sara Wilsson</h3>
-              <h4>Designer</h4>
-              <div class="stars">
-                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-              </div>
-              <p>
-                <i class="bi bi-quote quote-icon-left"></i>
-                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
-                quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                <i class="bi bi-quote quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
-              <h3>Jena Karlis</h3>
-              <h4>Store Owner</h4>
-              <div class="stars">
-                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-              </div>
-              <p>
-                <i class="bi bi-quote quote-icon-left"></i>
-                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim
-                tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                <i class="bi bi-quote quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
-              <h3>Matt Brandon</h3>
-              <h4>Freelancer</h4>
-              <div class="stars">
-                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-              </div>
-              <p>
-                <i class="bi bi-quote quote-icon-left"></i>
-                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit
-                minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                <i class="bi bi-quote quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
-              <h3>John Larson</h3>
-              <h4>Entrepreneur</h4>
-              <div class="stars">
-                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-              </div>
-              <p>
-                <i class="bi bi-quote quote-icon-left"></i>
-                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa
-                labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                <i class="bi bi-quote quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-
+    <section id="plugin-menu" class="plugin-menu">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h2>Our Plugin Menu</h2>
         </div>
-        <div class="swiper-pagination"></div>
+    
+        <div class="accordion" id="pluginAccordion">
+          <!-- Item 1 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                Plugin Category 1
+              </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#pluginAccordion">
+              <div class="accordion-body">
+                <ul>
+                  <li><a href="#">Plugin 1</a></li>
+                  <li><a href="#">Plugin 2</a></li>
+                  <li><a href="#">Plugin 3</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+    
+          <!-- Item 2 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                Plugin Category 2
+              </button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#pluginAccordion">
+              <div class="accordion-body">
+                <ul>
+                  <li><a href="#">Plugin 4</a></li>
+                  <li><a href="#">Plugin 5</a></li>
+                  <li><a href="#">Plugin 6</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+    
+          <!-- Item 3 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Plugin Category 3
+              </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#pluginAccordion">
+              <div class="accordion-body">
+                <ul>
+                  <li><a href="#">Plugin 7</a></li>
+                  <li><a href="#">Plugin 8</a></li>
+                  <li><a href="#">Plugin 9</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-
-    </div>
-  </section> -->
-  <!-- End Testimonials Section -->
-
+    </section>
+    
   <!-- ======= Featured Services Section ======= -->
   <section id="featured-services" class="featured-services" style="background-color:#C3E2FF;">
     <div class="container">
@@ -710,64 +639,6 @@
 
     </div><!-- End Portfolio Container -->
 
-
-  <!-- ======= Recent Blog Posts Section ======= -->
-  {{-- <section id="recent-blog-posts" class="recent-blog-posts">
-
-    <div class="container" data-aos="fade-up">
-
-      <div class="section-header">
-        <h2>Blog</h2>
-        <!-- <p>Recent posts form our Blog</p> -->
-      </div> --}}
-
-      {{-- <div class="row">
-
-        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-          <div class="post-box">
-            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/koperasi2.jpg" class="img-fluid" alt=""></div>
-            <div class="meta">
-              <span class="post-date">12 Agustus 2023</span>
-              <!-- <span class="post-author"> / Julia Parker</span> -->
-            </div>
-            <h3 class="post-title">Istilah dan Prinsip Dasar Koperasi</h3>
-            <p>Pengertian Koperasi adalah suatu badan usaha (organisasi ekonomi) yang dimiliki dan dioperasikan oleh para anggotanya untuk memenuhi kepentingan bersama di bidang ekonomi.</p>
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-          </div>
-        </div> --}}
-
-        {{-- <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
-          <div class="post-box">
-            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/simpanpinjam.jpg" class="img-fluid" alt=""></div>
-            <div class="meta">
-              <span class="post-date">4 Agustus 2023</span>
-              <!-- <span class="post-author"> / Mario Douglas</span> -->
-            </div>
-            <h3 class="post-title">Usaha Simpan Pinjam</h3>
-            <p>Modul-modul dalam usaha simpan pinjam sudah sesuai dengan kebutuhan yang ada dalam pengelolan koperasi diantaranya sebagai berikut :</p>
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-          </div>
-        </div> --}}
-
-        {{-- <div class="col-lg-4" data-aos="fade-up" data-aos-delay="600">
-          <div class="post-box">
-            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/sejarah.jpg" class="img-fluid" alt=""></div>
-            <div class="meta">
-              <span class="post-date">10 Maret 2023</span>
-              <!-- <span class="post-author"> / Lisa Hunter</span> -->
-            </div>
-            <h3 class="post-title">Sejarah Koperasi di Indonesia</h3>
-            <p>Sejarah singkat gerakan koperasi bermula pada abad ke-20 yang pada umumnya merupakan hasil dari usaha yang tidak spontan dan tidak dilakukan oleh orang-orang yang sangat kaya. </p>
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-          </div>
-        </div>
-        
-      </div>
-    </div>
-
-  </section> --}}
-  <!-- End Recent Blog Posts Section -->
-
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact">
     <div class="container">
@@ -785,7 +656,7 @@
           <div class="card flex-fill shadow p-3">
             <div class="card-body">
               <h3>More Info</h3>
-              <p>Hubungi Kami dibawah ini</p>
+              <p>Hubungi kami menggunakan informasi di bawah ini</p>
               <br/><br/>
               <div class="info-item d-flex">
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
@@ -800,7 +671,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h4>Alamat Email:</h4>
-                  <p>cs@DIKO.co.id</p>
+                  <p>cs@diko.co.id</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -808,8 +679,8 @@
                 <i class="bi bi-phone flex-shrink-0"></i>
                 <div>
                   <h4>Nomor Telepon:</h4>
-                  <p>Office : 0351-2812555<br>
-                    Marketing : 0811-3636-09 </p>
+                  <p>HP : 0811-3636-09<br>
+                    Hotline : (0351) 2812555 </p>
                 </div>
               </div><!-- End Info Item -->
             </div>

@@ -33,13 +33,11 @@
             Kota Madiun - Jawa Timur<br>
             <strong> Branch Office:</strong> Perum Griya Gadang Sejahtera Kav. 14<br>
             Gadang - Sukun - Kota Malang - Jawa Timur<br><br>
-            <strong>TELP:</strong> 0811-2501-827<br>
-            <strong>WA:</strong> 0811-2501-827<br>
-            <strong>Email:</strong> cs@DIKO.co.id<br>
+            <strong>TELP:</strong> 0811-3636-09<br>
+            <strong>Hotline:</strong> (0351) 2812555<br>
+            <strong>Email:</strong> cs@diko.co.id<br>
           </p>
-
       </div>
-
     </div>
   </div>
 </div>
@@ -61,7 +59,6 @@
       <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
       <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
     </div>
-
   </div>
 </div>
 
