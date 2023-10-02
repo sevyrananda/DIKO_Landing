@@ -574,16 +574,18 @@
                         <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                Plugin Category 1
+                                Menu Plugin Master
                             </button>
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                             data-bs-parent="#pluginAccordion">
                             <div class="accordion-body">
                                 <ul>
-                                    <li><a href="#">Plugin 1</a></li>
-                                    <li><a href="#">Plugin 2</a></li>
-                                    <li><a href="#">Plugin 3</a></li>
+                                    <li><a href="#">Plugin Master Menu Bank & E-Commerce</a></li>
+                                    <li><a href="#">Plugin Master Barcode Form Add</a></li>
+                                    <li><a href="#">Plugin Master Menu COA Form Add</a></li>
+                                    <li><a href="#">Plugin Master Menu Golongan Stock</a></li>
+                                    <li><a href="#">Plugin Master Menu Mutasi Customer</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -594,16 +596,18 @@
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Plugin Category 2
+                                Menu Plugin Pembelian
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                             data-bs-parent="#pluginAccordion">
                             <div class="accordion-body">
                                 <ul>
-                                    <li><a href="#">Plugin 4</a></li>
-                                    <li><a href="#">Plugin 5</a></li>
-                                    <li><a href="#">Plugin 6</a></li>
+                                    <li><a href="#">Plugin Laporan Daftar Supplier</a></li>
+                                    <li><a href="#">Plugin Laporan Purchase Order Preview </a></li>
+                                    <li><a href="#">Plugin Laporan Saldo Preview</a></li>
+                                    <li><a href="#">Plugin Laporan Retur Pembelian tanpa Faktur Tabel</a></li>
+                                    <li><a href="#">Plugin Pelunasan Hutang Add Form</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -614,16 +618,18 @@
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Plugin Category 3
+                               Menu Plugin Transaksi Stock
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#pluginAccordion">
                             <div class="accordion-body">
                                 <ul>
-                                    <li><a href="#">Plugin 7</a></li>
-                                    <li><a href="#">Plugin 8</a></li>
-                                    <li><a href="#">Plugin 9</a></li>
+                                    <li><a href="#">Plugin Transaksi Stock Menu Laporan Daftar Kartu Stock Tabel</a></li>
+                                    <li><a href="#">Plugin Transaksi Stock Menu Laporan Packing Stock Preview Laporan</a></li>
+                                    <li><a href="#">Plugin Transaksi Stock Menu Penyesuaian Stock Add Form</a></li>
+                                    <li><a href="#">Plugin Transaksi Stock Menu Laporan Nilai Persediaan Tabel</a></li>
+                                    <li><a href="#">Plugin Transaksi Stock Menu Kirim Stock ke Gudang Lain Tabel</a></li>
                                 </ul>
                             </div>
                         </div>

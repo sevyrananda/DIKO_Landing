@@ -162,8 +162,8 @@
           <div class="service-item">
             <div class="img">
               <!-- <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt=""> -->
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/cari.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/cari.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/pos1.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/pos1.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -171,9 +171,9 @@
                 <i class="bi bi-search"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Registrasi Nasabah</h3>
+                <h3>Master</h3>
               </a>
-              <p> Identifikasi dan kelola data nasabah dengan cepat dan akurat.
+              <p> Mengelola data-data inti yang mencakup informasi produk atau layanan yang ditawarkan.
               </p>
             </div>
           </div>
@@ -184,8 +184,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/kas.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/kas.jpg" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/pos2.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/pos2.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -194,7 +194,7 @@
                 <i class="bi bi-arrow-down"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Kas Bank</h3>
+                <h3>Kasir</h3>
               </a>
               <p>Mencatat transaksi uang tunai masuk dan keluar untuk melacak arus kas dan memudahkan pengelolaan keuangan.</p>
             </div>
@@ -204,8 +204,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/neraca.png" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/neraca.png" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/pos3.pngg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/pos3.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -213,9 +213,9 @@
                 <i class="bi bi-bar-chart"></i> <!-- Ikon grafik batang -->
               </div>
               <a href="#" class="stretched-link">
-                <h3>Neraca</h3>
+                <h3>Pembelian</h3>
               </a>
-              <p>Mencatat dan melacak semua aset yang dimiliki. Mencakup uang tunai, tabungan anggota, pinjaman yang diberikan.</p>
+              <p>Mencatat tahapan penting dalam menghasilkan pendapatan dan memastikan pelanggan mendapatkan layanan yang mereka inginkan dengan cara aman dan efisien.</p>
             </div>
           </div>
         </div><!-- End Service Item -->
@@ -223,8 +223,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/simpanan.png" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/simpanan.png" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/pos4.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/pos4.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -232,9 +232,9 @@
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Simpanan Berjangka</h3>
+                <h3>Penjualan</h3>
               </a>
-              <p>Membantu nasabah dalam mengelola dan mengoptimalkan simpanan mereka serta memberikan visibilitas yang lebih baik tentang kondisi keuangan</p>
+              <p>Membantu menyimpan riwayat penjualan pengguna yang memungkinkan mereka untuk melihat stock yang telah terjual.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div>
@@ -243,8 +243,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/kasir.png" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/kasir.png" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/pos5.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/pos5.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -252,7 +252,7 @@
                 <i class="bi bi-calendar4-week"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Kasir</h3>
+                <h3>Transaksi Stock</h3>
               </a>
               <p>Mencatat pinjaman nasabah, menghitung total tabungan nasabah dan keterangan mutasi anggota</p>
               <a href="#" class="stretched-link"></a>
@@ -263,8 +263,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/pembukuan.png" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/pembukuan.png" class="img-fluid" alt="">
+              <a href="{{url('HeroBiz')}}/assets/img/fitur/pos6.png" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('HeroBiz')}}/assets/img/fitur/pos6.png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -282,6 +282,65 @@
       </div>
     </div>
   </section><!-- End Services Section -->
+
+  <!-- ======= Featured Services Section ======= -->
+  <section id="featured-services" class="featured-services" style="background-color:#C3E2FF;">
+    <div class="container">
+
+      <div class="row gy-4">
+
+        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
+          <div class="service-item position-relative">
+            <div class="icon" style="text-align: center;">
+              <img src="{{ asset('HeroBiz/time-management.png') }}" alt="manage" width="50" height="50">
+              <!-- <i class="bi bi-activity icon"></i> -->
+            </div>
+            <!-- <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4> -->
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Pengelolaan keuangan menjadi lebih efisien
+              dan tertib</p>
+          </div>
+        </div><!-- End Service Item -->
+
+        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
+          <div class="service-item position-relative">
+            <div class="icon" style="text-align: center;">
+              <img src="{{ asset('HeroBiz/global-network.png') }}" alt="network" width="45" height="45">
+              <!-- <i class="bi bi-bounding-box-circles icon"></i> -->
+            </div>
+            <!-- <h4><a href="" class="stretched-link">Sed ut perspici</a></h4> -->
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Solusi terpadu untuk mengelola jaringan
+              cabang</p>
+          </div>
+        </div><!-- End Service Item -->
+
+        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+          <div class="service-item position-relative">
+            <div class="icon" style="text-align: center;">
+              <img src="{{ asset('HeroBiz/transaction.png') }}" alt="transaction" width="45" height="45">
+              <!-- <i class="bi bi-calendar4-week icon"></i> -->
+            </div>
+            <!-- <h4><a href="" class="stretched-link">Magni Dolores</a></h4> -->
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Proses transaksi bisnis lebih lancar dan
+              instan</p>
+          </div>
+        </div><!-- End Service Item -->
+
+        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
+          <div class="service-item position-relative">
+            <div class="icon" style="text-align: center;">
+              <!-- <i class="bi bi-broadcast icon"></i> -->
+              <img src="{{ asset('HeroBiz/responsive-design.png') }}" alt="device" width="45" height="45">
+            </div>
+            <!-- <h4><a href="" class="stretched-link">Nemo Enim</a></h4> -->
+            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Nikmati kemudahan akses melalui semua
+              perangkat</p>
+          </div>
+        </div><!--End Service Item-->
+
+      </div>
+
+    </div>
+  </section><!-- End Featured Services Section -->
 
 
 
@@ -367,277 +426,84 @@
   </section> 
   {{-- <End Pricing Section> --}}
 
+
+
     <section id="plugin-menu" class="plugin-menu">
       <div class="container" data-aos="fade-up">
-        <div class="section-header">
-          <h2>Our Plugin Menu</h2>
-        </div>
-    
-        <div class="accordion" id="pluginAccordion">
-          <!-- Item 1 -->
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                Plugin Category 1
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#pluginAccordion">
-              <div class="accordion-body">
-                <ul>
-                  <li><a href="#">Plugin 1</a></li>
-                  <li><a href="#">Plugin 2</a></li>
-                  <li><a href="#">Plugin 3</a></li>
-                </ul>
-              </div>
-            </div>
+          <div class="section-header">
+              <h2>Our Plugin Menu</h2>
           </div>
-    
-          <!-- Item 2 -->
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingTwo">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                Plugin Category 2
-              </button>
-            </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#pluginAccordion">
-              <div class="accordion-body">
-                <ul>
-                  <li><a href="#">Plugin 4</a></li>
-                  <li><a href="#">Plugin 5</a></li>
-                  <li><a href="#">Plugin 6</a></li>
-                </ul>
+
+          <div class="accordion" id="pluginAccordion">
+              <!-- Item 1 -->
+              <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                      <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                          data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                          Menu Plugin Master
+                      </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                      data-bs-parent="#pluginAccordion">
+                      <div class="accordion-body">
+                          <ul>
+                              <li><a href="#">Plugin Master Menu Bank & E-Commerce</a></li>
+                              <li><a href="#">Plugin Master Barcode Form Add</a></li>
+                              <li><a href="#">Plugin Master Menu COA Form Add</a></li>
+                              <li><a href="#">Plugin Master Menu Golongan Stock</a></li>
+                              <li><a href="#">Plugin Master Menu Mutasi Customer</a></li>
+                          </ul>
+                      </div>
+                  </div>
               </div>
-            </div>
-          </div>
-    
-          <!-- Item 3 -->
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                Plugin Category 3
-              </button>
-            </h2>
-            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#pluginAccordion">
-              <div class="accordion-body">
-                <ul>
-                  <li><a href="#">Plugin 7</a></li>
-                  <li><a href="#">Plugin 8</a></li>
-                  <li><a href="#">Plugin 9</a></li>
-                </ul>
+
+              <!-- Item 2 -->
+              <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingTwo">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                          data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                          Menu Plugin Pembelian
+                      </button>
+                  </h2>
+                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                      data-bs-parent="#pluginAccordion">
+                      <div class="accordion-body">
+                          <ul>
+                              <li><a href="#">Plugin Laporan Daftar Supplier</a></li>
+                              <li><a href="#">Plugin Laporan Purchase Order Preview </a></li>
+                              <li><a href="#">Plugin Laporan Saldo Preview</a></li>
+                              <li><a href="#">Plugin Laporan Retur Pembelian tanpa Faktur Tabel</a></li>
+                              <li><a href="#">Plugin Pelunasan Hutang Add Form</a></li>
+                          </ul>
+                      </div>
+                  </div>
               </div>
-            </div>
+
+                <!-- Item 3 -->
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingThree">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                          data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                         Menu Plugin Transaksi Stock
+                      </button>
+                  </h2>
+                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                      data-bs-parent="#pluginAccordion">
+                      <div class="accordion-body">
+                          <ul>
+                              <li><a href="#">Plugin Transaksi Stock Menu Laporan Daftar Kartu Stock Tabel</a></li>
+                              <li><a href="#">Plugin Transaksi Stock Menu Laporan Packing Stock Preview Laporan</a></li>
+                              <li><a href="#">Plugin Transaksi Stock Menu Penyesuaian Stock Add Form</a></li>
+                              <li><a href="#">Plugin Transaksi Stock Menu Laporan Nilai Persediaan Tabel</a></li>
+                              <li><a href="#">Plugin Transaksi Stock Menu Kirim Stock ke Gudang Lain Tabel</a></li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
           </div>
-        </div>
       </div>
-    </section>
-    
-  <!-- ======= Featured Services Section ======= -->
-  <section id="featured-services" class="featured-services" style="background-color:#C3E2FF;">
-    <div class="container">
+  </section>
 
-      <div class="row gy-4">
-
-        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
-          <div class="service-item position-relative">
-            <div class="icon" style="text-align: center;">
-              <img src="{{ asset('HeroBiz/time-management.png') }}" alt="manage" width="50" height="50">
-              <!-- <i class="bi bi-activity icon"></i> -->
-            </div>
-            <!-- <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4> -->
-            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Pengelolaan keuangan menjadi lebih efisien
-              dan tertib</p>
-          </div>
-        </div><!-- End Service Item -->
-
-        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
-          <div class="service-item position-relative">
-            <div class="icon" style="text-align: center;">
-              <img src="{{ asset('HeroBiz/global-network.png') }}" alt="network" width="45" height="45">
-              <!-- <i class="bi bi-bounding-box-circles icon"></i> -->
-            </div>
-            <!-- <h4><a href="" class="stretched-link">Sed ut perspici</a></h4> -->
-            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Solusi terpadu untuk mengelola jaringan
-              cabang</p>
-          </div>
-        </div><!-- End Service Item -->
-
-        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
-          <div class="service-item position-relative">
-            <div class="icon" style="text-align: center;">
-              <img src="{{ asset('HeroBiz/transaction.png') }}" alt="transaction" width="45" height="45">
-              <!-- <i class="bi bi-calendar4-week icon"></i> -->
-            </div>
-            <!-- <h4><a href="" class="stretched-link">Magni Dolores</a></h4> -->
-            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Proses transaksi bisnis lebih lancar dan
-              instan</p>
-          </div>
-        </div><!-- End Service Item -->
-
-        <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="600">
-          <div class="service-item position-relative">
-            <div class="icon" style="text-align: center;">
-              <!-- <i class="bi bi-broadcast icon"></i> -->
-              <img src="{{ asset('HeroBiz/responsive-design.png') }}" alt="device" width="45" height="45">
-            </div>
-            <!-- <h4><a href="" class="stretched-link">Nemo Enim</a></h4> -->
-            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Nikmati kemudahan akses melalui semua
-              perangkat</p>
-          </div>
-        </div><!--End Service Item-->
-
-      </div>
-
-    </div>
-  </section><!-- End Featured Services Section -->
-
-   <!-- ======= Portfolio Section ======= -->
-   {{-- <section id="portfolio" class="portfolio" data-aos="fade-up">
-
-<div class="container"> --}}
-
-  {{-- <div class="section-header">
-    <h2>DIKO is your Answer</h2>
-    <p>Dengan Software Akuntansi DIKO versi lite, Anda tidak perlu khawatir tentang keterbatasan akses perangkat, sehingga Anda dapat menjalankan bisnis Anda dengan lebih efisien dan responsif terhadap perubahan dalam keadaan.</p>
-  </div>
-
-</div> --}}
-
-{{-- <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
-
-  <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
-
-    <ul class="portfolio-flters">
-      <li data-filter="*" class="filter-active">All</li>
-      <li data-filter=".filter-app">Mobile</li>
-      <li data-filter=".filter-product">Desktop</li>
-      <li data-filter=".filter-branding">Merchandise</li>
-      <li data-filter=".filter-books">Akuntansi</li>
-    </ul> --}}
-    <!-- End Portfolio Filters -->
-
-    {{-- <div class="row g-0 portfolio-container">
-
-      <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-accounting.jpg" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>Akuntansi</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-accounting.jpg" title="Akuntansi" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-desktop.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>DIKO POS</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-desktop.png" title="DIKO POS" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-DIKO TRANSPARANT.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>DIKO's Logo</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-DIKO TRANSPARANT.png" title="DIKO's Logo" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-mobile2.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>DIKO's Blog</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-mobile2.png" title="DIKO's Blog" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-mobile.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>Mobile Orientation</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-mobile.png" title="Mobile Orientation" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-laptop.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>DIKO SP</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-laptop.png" title="DIKO SP" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-mug.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>DIKO's Merchant</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-mug.png" title="DIKO's Merchant" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-pie-chart.jpg" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>Charts</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-pie-chart.jpg" title="Charts" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-statistics.jpg" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>Desktop</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-statistics.jpg" title="Desktop" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-tablet.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>Tablets</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-tablet.png" title="Tablets" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-tablet2.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>Tablet Orientation</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-tablet2.png" title="Tablet Orientation" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-      {{-- <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
-        <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-totebag.png" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>Merchandise</h4>
-          <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-totebag.png" title="Merchandise" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-          <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-        </div>
-      </div> --}}
-      <!-- End Portfolio Item -->
-
-    </div><!-- End Portfolio Container -->
 
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact">

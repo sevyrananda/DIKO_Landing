@@ -217,7 +217,7 @@
       <div class="row">
         <div class="col-lg-15" data-aos="zoom-in" data-aos-delay="100">
           <div class="clickable-content" onclick="toggleContent()">
-            <img src="{{url('Techie')}}/assets/img/landing2.png" alt="Clickable Image" class="img-fluid">
+            <img src="{{url('Techie')}}/assets/img/landingbaru.png" alt="Clickable Image" class="img-fluid">
             <!-- <p id="hidden-content" style="display: none;">This is the hidden content that appears when you click the image.</p> -->
           </div>
         </div>
