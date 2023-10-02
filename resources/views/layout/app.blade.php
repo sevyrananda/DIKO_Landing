@@ -50,7 +50,7 @@
   <!-- ======= Footer ======= -->
 
   <div class="floating-ascend-button">
-    <a href="https://api.whatsapp.com/send?phone=+62811363609" class="scroll-top d-flex align-items-center justify-content-center" style="padding: 10px;">
+    <a href="https://wa.me/+62811363609" class="scroll-top d-flex align-items-center justify-content-center" style="padding: 10px;">
       <i class="bi bi-whatsapp"></i>
     </a>
   </div>
