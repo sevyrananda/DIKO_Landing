@@ -78,7 +78,8 @@
                                     height="45">
                             </div>
                             <!-- <h4><a href="" class="stretched-link">Nemo Enim</a></h4> -->
-                            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Nikmati kemudahan akses melalui semua perangkat</p>
+                            <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Nikmati kemudahan akses melalui
+                                semua perangkat</p>
                         </div>
                     </div><!--End Service Item-->
                 </div>
@@ -124,18 +125,18 @@
                     </li><!-- End Tab 4 Nav -->
 
                     <!-- <li class="nav-item col-6 col-md-4 col-lg-2">
-                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
-                  <i class="bi bi-easel color-blue"></i>
-                  <h4>Adipiscing</h4>
-                </a>
-              </li>End Tab 5 Nav -->
+                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
+                                  <i class="bi bi-easel color-blue"></i>
+                                  <h4>Adipiscing</h4>
+                                </a>
+                              </li>End Tab 5 Nav -->
 
                     <!-- <li class="nav-item col-6 col-md-4 col-lg-2">
-                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-6">
-                  <i class="bi bi-map color-orange"></i>
-                  <h4>Reprehit</h4>
-                </a>
-              </li>End Tab 6 Nav -->
+                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-6">
+                                  <i class="bi bi-map color-orange"></i>
+                                  <h4>Reprehit</h4>
+                                </a>
+                              </li>End Tab 6 Nav -->
 
                 </ul>
 
@@ -153,21 +154,21 @@
                                     pembayaran berulang seperti bulanan atau tahunan.
                                 </p>
                                 <!-- <ul>
-                      <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                      </li>
-                      <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
-                      </li>
-                      <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
-                        nulla pariatur.</li>
-                    </ul> -->
+                                      <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                      </li>
+                                      <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
+                                      </li>
+                                      <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                        Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
+                                        nulla pariatur.</li>
+                                    </ul> -->
                                 <!-- <p>
-                      Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                      voluptate
-                      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                      sunt in
-                      culpa qui officia deserunt mollit anim id est laborum
-                    </p> -->
+                                      Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                                      voluptate
+                                      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                                      sunt in
+                                      culpa qui officia deserunt mollit anim id est laborum
+                                    </p> -->
                             </div>
                             <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
 
@@ -338,9 +339,9 @@
 
                                 <!-- <img src="{{ url('HeroBiz') }}/assets/img/register.jpg" class="img-fluid" alt=""> -->
 
-                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/cari.jpg" data-gallery="fitur-gallery"
+                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/cari.png" data-gallery="fitur-gallery"
                                     class="glightbox preview-link">
-                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/cari.jpg" class="img-fluid"
+                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/cari.png" class="img-fluid"
                                         alt="">
                                 </a>
 
@@ -386,9 +387,9 @@
                     <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
                         <div class="service-item">
                             <div class="img">
-                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/neraca.png" data-gallery="fitur-gallery"
+                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/neraca1.png" data-gallery="fitur-gallery"
                                     class="glightbox preview-link">
-                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/neraca.png" class="img-fluid"
+                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/neraca1.png" class="img-fluid"
                                         alt="">
                                 </a>
                             </div>
@@ -408,9 +409,9 @@
                     <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
                         <div class="service-item">
                             <div class="img">
-                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/simpanan.png" data-gallery="fitur-gallery"
-                                    class="glightbox preview-link">
-                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/simpanan.png" class="img-fluid"
+                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/simpanan1.png"
+                                    data-gallery="fitur-gallery" class="glightbox preview-link">
+                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/simpanan1.png" class="img-fluid"
                                         alt="">
                                 </a>
                             </div>
@@ -431,9 +432,9 @@
                     <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
                         <div class="service-item">
                             <div class="img">
-                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/kasir.png" data-gallery="fitur-gallery"
+                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/kasir1.png" data-gallery="fitur-gallery"
                                     class="glightbox preview-link">
-                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/kasir.png" class="img-fluid"
+                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/kasir1.png" class="img-fluid"
                                         alt="">
                                 </a>
                             </div>
@@ -454,9 +455,9 @@
                     <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
                         <div class="service-item">
                             <div class="img">
-                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/pembukuan.png"
+                                <a href="{{ url('HeroBiz') }}/assets/img/fitur/pembukuan1.png"
                                     data-gallery="fitur-gallery" class="glightbox preview-link">
-                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/pembukuan.png" class="img-fluid"
+                                    <img src="{{ url('HeroBiz') }}/assets/img/fitur/pembukuan1.png" class="img-fluid"
                                         alt="">
                                 </a>
                             </div>
@@ -562,81 +563,216 @@
         </section>
         <!-- End Pricing Section -->
 
-        <section id="plugin-menu" class="plugin-menu">
-            <div class="container" data-aos="fade-up">
-                <div class="section-header">
-                    <h2>Our Plugin Menu</h2>
-                </div>
 
-                <div class="accordion" id="pluginAccordion">
-                    <!-- Item 1 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingOne">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                Menu Plugin Master
-                            </button>
-                        </h2>
-                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                            data-bs-parent="#pluginAccordion">
-                            <div class="accordion-body">
-                                <ul>
-                                    <li><a href="#">Plugin Master Menu Bank & E-Commerce</a></li>
-                                    <li><a href="#">Plugin Master Barcode Form Add</a></li>
-                                    <li><a href="#">Plugin Master Menu COA Form Add</a></li>
-                                    <li><a href="#">Plugin Master Menu Golongan Stock</a></li>
-                                    <li><a href="#">Plugin Master Menu Mutasi Customer</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+        <html lang="en">
+        <head>
+            <!-- Masukkan tag <head> untuk mengatur CSS, judul, dll. -->
+            <style>
+                .grid-item {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    text-align: center;
+                }
+            </style>
+        </head>
+        <body>
+            <script>
+                document.addEventListener("DOMContentLoaded", function() {
+                    // Function to set the size of the logos
+                    function setLogoSize(logoClass, width, height) {
+                        const logos = document.querySelectorAll(logoClass);
+                        logos.forEach((logo) => {
+                            logo.style.width = width;
+                            logo.style.height = height;
+                        });
+                    }
 
-                    <!-- Item 2 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Menu Plugin Pembelian
-                            </button>
-                        </h2>
-                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                            data-bs-parent="#pluginAccordion">
-                            <div class="accordion-body">
-                                <ul>
-                                    <li><a href="#">Plugin Laporan Daftar Supplier</a></li>
-                                    <li><a href="#">Plugin Laporan Purchase Order Preview </a></li>
-                                    <li><a href="#">Plugin Laporan Saldo Preview</a></li>
-                                    <li><a href="#">Plugin Laporan Retur Pembelian tanpa Faktur Tabel</a></li>
-                                    <li><a href="#">Plugin Pelunasan Hutang Add Form</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                    // Set the size of the logos (you can adjust the width and height values)
+                    setLogoSize(".small-logo", "100px", "100px");
+                });
 
-                    <!-- Item 3 -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingThree">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                               Menu Plugin Transaksi Stock
+                // Function to display the modal with the specified content
+                function showModal(modalId) {
+                    var modal = new bootstrap.Modal(document.getElementById(modalId));
+                    modal.show();
+                }
+
+                // Add click event listeners for each logo
+                // Logo 1 (Plugin Master Menu Bank & E-Commerce)
+                document.querySelector(".col-md-3.grid-item:nth-child(1)").addEventListener("click", function() {
+                    showModal("pluginMasterModal");
+                });
+
+                // Logo 2 (Plugin Master Barcode Form Add)
+                document.querySelector(".col-md-3.grid-item:nth-child(2)").addEventListener("click", function() {
+                    showModal("barcodeModal");
+                });
+
+                // Logo 3 (Plugin Master Golongan Jaminan)
+                document.querySelector(".col-md-3.grid-item:nth-child(3)").addEventListener("click", function() {
+                    showModal("golonganModal");
+                });
+
+                // Logo 4 (Plugin Master Kode Transaksi)
+                document.querySelector(".col-md-3.grid-item:nth-child(4)").addEventListener("click", function() {
+                    showModal("kodeModal");
+                });
+
+                function closeModal(modalId) {
+                    var modal = new bootstrap.Modal(document.getElementById(modalId));
+                    modal.hide();
+                }
+            </script>
+
+            <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+            <!-- Modals -->
+            <div class="modal fade" id="pluginMasterModal" tabindex="-1" role="dialog"
+                aria-labelledby="pluginMasterModalLabel" aria-hidden="false">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="pluginMasterModalLabel">Plugin Master Menu Bank & E-Commerce</h5>
+                            <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                                <span aria-hidden="false">&times;</span>
                             </button>
-                        </h2>
-                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                            data-bs-parent="#pluginAccordion">
-                            <div class="accordion-body">
-                                <ul>
-                                    <li><a href="#">Plugin Transaksi Stock Menu Laporan Daftar Kartu Stock Tabel</a></li>
-                                    <li><a href="#">Plugin Transaksi Stock Menu Laporan Packing Stock Preview Laporan</a></li>
-                                    <li><a href="#">Plugin Transaksi Stock Menu Penyesuaian Stock Add Form</a></li>
-                                    <li><a href="#">Plugin Transaksi Stock Menu Laporan Nilai Persediaan Tabel</a></li>
-                                    <li><a href="#">Plugin Transaksi Stock Menu Kirim Stock ke Gudang Lain Tabel</a></li>
-                                </ul>
-                            </div>
                         </div>
+                        <div class="modal-body">
+                            <!-- Informasi yang ingin Anda tambahkan -->
+                            <p>Plugin ini mendukung berbagai bank dan penyedia layanan pembayaran, mencakup beragam opsi seperti kartu kredit, transfer bank, e-wallet, dan banyak lagi.</p>
+                        </div>
+                        {{-- <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div> --}}
                     </div>
                 </div>
             </div>
-        </section>
+
+            <div class="modal fade" id="barcodeModal" tabindex="-1" role="dialog"
+            aria-labelledby="barcodeModalLabel" aria-hidden="false">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="barcodeModalLabel">Plugin Master Menu Barcode</h5>
+                        <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                            <span aria-hidden="false">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <!-- Informasi yang ingin Anda tambahkan -->
+                        <p>Plugin ini juga dapat terintegrasi dengan sistem POS (Point of Sale) Anda, memberikan kemudahan dalam proses penjualan dan pencatatan data produk.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="barcodeModal" tabindex="-1" role="dialog"
+        aria-labelledby="barcodeModalLabel" aria-hidden="false">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="barcodeModalLabel">Plugin Master Menu Barcode</h5>
+                    <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                        <span aria-hidden="false">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Informasi yang ingin Anda tambahkan -->
+                    <p>Plugin ini memberikan kemudahan dalam penyusunan laporan keuangan dan memungkinkan Anda untuk membuat keputusan yang lebih baik dalam pengelolaan keuangan Anda.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="golonganModal" tabindex="-1" role="dialog"
+    aria-labelledby="golonganModalLabel" aria-hidden="false">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="golonganModalLabel">Plugin Master Menu Golongan Pinjaman</h5>
+                <button type="button" class="close" data-dismiss="modal" data-target="#golonganModal" aria-label="Close">
+                    <span aria-hidden="false">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <!-- Informasi yang ingin Anda tambahkan -->
+                <p>Plugin ini memungkinkan pengguna untuk dengan mudah mengintegrasikan berbagai opsi pembayaran dari berbagai bank dan penyedia layanan pembayaran dalam satu menu yang terstruktur, memberikan pengalaman belanja yang lebih nyaman bagi pelanggan. </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="kodeModal" tabindex="-1" role="dialog"
+aria-labelledby="kodeModalLabel" aria-hidden="false">
+<div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="kodeModalLabel">Plugin Master Menu Kode Transaksi Pinjaman</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+            <section id="plugin-menu" class="plugin-menu">
+                <div class="container" data-aos="fade-up">
+                    <div class="section-header">
+                        <h2>Our Plugin Menu</h2>
+                    </div>
+
+                    <div class="grid-menu">
+                        <div class="row">
+                            <!-- Item 1 (Logo 1) -->
+                            <div class="col-md-3 grid-item">
+                                <div class="hidden-button">
+                                    <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 1"
+                                        class="small-logo" id="showModalButton">
+                                </div>
+                            </div>
+
+                            <script>
+                                document.getElementById("showModalButton").addEventListener("click", function() {
+                                    // Menampilkan modal ketika gambar diklik
+                                    $('#pluginMasterModal').modal('show');
+                                });
+                            </script>
+
+                            <!-- Item 2 (Logo 2) -->
+                            <div class="col-md-3 grid-item" data-toggle="modal" data-target="#barcodeModal">
+                                <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 2"
+                                    class="small-logo">
+                            </div>
+
+                            <!-- Item 3 (Logo 3) -->
+                            <div class="col-md-3 grid-item" data-toggle="modal" data-target="#golonganModal">
+                                <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 3"
+                                    class="small-logo">
+                            </div>
+
+                            <!-- Item 4 (Logo 4) -->
+                            <div class="col-md-3 grid-item" data-toggle="modal" data-target="#kodeModal">
+                                <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                                    class="small-logo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+        </body>
+        </html>
 
 
         <!-- ======= F.A.Q Section ======= -->
@@ -649,9 +785,9 @@
                         <div class="content px-xl-5">
                             <h3><strong>Pertanyaan</strong> yang sering diajukan</h3>
                             <!-- <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                </p> -->
+                                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                                  dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                                </p> -->
                         </div>
 
                         <div class="accordion accordion-flush px-xl-5" id="faqlist">

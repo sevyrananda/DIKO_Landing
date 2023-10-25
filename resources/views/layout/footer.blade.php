@@ -11,7 +11,7 @@
       </div>
 
       <div class="col-lg-2 col-md-6 footer-links">
-        <h4>Produkg</h4>
+        <h4>Produk</h4>
         <ul>
           <li><a href="{{ route('sp') }}">DIKO SP</a></li>
           <li><a href="{{ route('pos') }}">DIKO Pos</a></li>

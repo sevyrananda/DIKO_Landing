@@ -428,81 +428,215 @@
 
 
 
-    <section id="plugin-menu" class="plugin-menu">
-      <div class="container" data-aos="fade-up">
-          <div class="section-header">
-              <h2>Our Plugin Menu</h2>
+    <html lang="en">
+      <head>
+          <!-- Masukkan tag <head> untuk mengatur CSS, judul, dll. -->
+          <style>
+              .grid-item {
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+                  text-align: center;
+              }
+          </style>
+      </head>
+      <body>
+          <script>
+              document.addEventListener("DOMContentLoaded", function() {
+                  // Function to set the size of the logos
+                  function setLogoSize(logoClass, width, height) {
+                      const logos = document.querySelectorAll(logoClass);
+                      logos.forEach((logo) => {
+                          logo.style.width = width;
+                          logo.style.height = height;
+                      });
+                  }
+
+                  // Set the size of the logos (you can adjust the width and height values)
+                  setLogoSize(".small-logo", "100px", "100px");
+              });
+
+              // Function to display the modal with the specified content
+              function showModal(modalId) {
+                  var modal = new bootstrap.Modal(document.getElementById(modalId));
+                  modal.show();
+              }
+
+              // Add click event listeners for each logo
+              // Logo 1 (Plugin Master Menu Bank & E-Commerce)
+              document.querySelector(".col-md-3.grid-item:nth-child(1)").addEventListener("click", function() {
+                  showModal("pluginMasterModal");
+              });
+
+              // Logo 2 (Plugin Master Barcode Form Add)
+              document.querySelector(".col-md-3.grid-item:nth-child(2)").addEventListener("click", function() {
+                  showModal("barcodeModal");
+              });
+
+              // Logo 3 (Plugin Master Golongan Jaminan)
+              document.querySelector(".col-md-3.grid-item:nth-child(3)").addEventListener("click", function() {
+                  showModal("golonganModal");
+              });
+
+              // Logo 4 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(4)").addEventListener("click", function() {
+                  showModal("kodeModal");
+              });
+
+              function closeModal(modalId) {
+                  var modal = new bootstrap.Modal(document.getElementById(modalId));
+                  modal.hide();
+              }
+          </script>
+
+          <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+          <!-- Modals -->
+          <div class="modal fade" id="pluginMasterModal" tabindex="-1" role="dialog"
+              aria-labelledby="pluginMasterModalLabel" aria-hidden="false">
+              <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                      <div class="modal-header">
+                          <h5 class="modal-title" id="pluginMasterModalLabel">Plugin Master Menu Bank & E-Commerce</h5>
+                          <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                              <span aria-hidden="false">&times;</span>
+                          </button>
+                      </div>
+                      <div class="modal-body">
+                          <!-- Informasi yang ingin Anda tambahkan -->
+                          <p>Plugin ini mendukung berbagai bank dan penyedia layanan pembayaran, mencakup beragam opsi seperti kartu kredit, transfer bank, e-wallet, dan banyak lagi.</p>
+                      </div>
+                      {{-- <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                      </div> --}}
+                  </div>
+              </div>
           </div>
 
-          <div class="accordion" id="pluginAccordion">
-              <!-- Item 1 -->
-              <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingOne">
-                      <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                          data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                          Menu Plugin Master
+          <div class="modal fade" id="barcodeModal" tabindex="-1" role="dialog"
+          aria-labelledby="barcodeModalLabel" aria-hidden="false">
+          <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                  <div class="modal-header">
+                      <h5 class="modal-title" id="barcodeModalLabel">Plugin Master Menu Barcode</h5>
+                      <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                          <span aria-hidden="false">&times;</span>
                       </button>
-                  </h2>
-                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                      data-bs-parent="#pluginAccordion">
-                      <div class="accordion-body">
-                          <ul>
-                              <li><a href="#">Plugin Master Menu Bank & E-Commerce</a></li>
-                              <li><a href="#">Plugin Master Barcode Form Add</a></li>
-                              <li><a href="#">Plugin Master Menu COA Form Add</a></li>
-                              <li><a href="#">Plugin Master Menu Golongan Stock</a></li>
-                              <li><a href="#">Plugin Master Menu Mutasi Customer</a></li>
-                          </ul>
-                      </div>
                   </div>
-              </div>
-
-              <!-- Item 2 -->
-              <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingTwo">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                          data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                          Menu Plugin Pembelian
-                      </button>
-                  </h2>
-                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                      data-bs-parent="#pluginAccordion">
-                      <div class="accordion-body">
-                          <ul>
-                              <li><a href="#">Plugin Laporan Daftar Supplier</a></li>
-                              <li><a href="#">Plugin Laporan Purchase Order Preview </a></li>
-                              <li><a href="#">Plugin Laporan Saldo Preview</a></li>
-                              <li><a href="#">Plugin Laporan Retur Pembelian tanpa Faktur Tabel</a></li>
-                              <li><a href="#">Plugin Pelunasan Hutang Add Form</a></li>
-                          </ul>
-                      </div>
-                  </div>
-              </div>
-
-                <!-- Item 3 -->
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingThree">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                          data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                         Menu Plugin Transaksi Stock
-                      </button>
-                  </h2>
-                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                      data-bs-parent="#pluginAccordion">
-                      <div class="accordion-body">
-                          <ul>
-                              <li><a href="#">Plugin Transaksi Stock Menu Laporan Daftar Kartu Stock Tabel</a></li>
-                              <li><a href="#">Plugin Transaksi Stock Menu Laporan Packing Stock Preview Laporan</a></li>
-                              <li><a href="#">Plugin Transaksi Stock Menu Penyesuaian Stock Add Form</a></li>
-                              <li><a href="#">Plugin Transaksi Stock Menu Laporan Nilai Persediaan Tabel</a></li>
-                              <li><a href="#">Plugin Transaksi Stock Menu Kirim Stock ke Gudang Lain Tabel</a></li>
-                          </ul>
-                      </div>
+                  <div class="modal-body">
+                      <!-- Informasi yang ingin Anda tambahkan -->
+                      <p>Plugin ini juga dapat terintegrasi dengan sistem POS (Point of Sale) Anda, memberikan kemudahan dalam proses penjualan dan pencatatan data produk.</p>
                   </div>
               </div>
           </div>
       </div>
-  </section>
+
+      <div class="modal fade" id="barcodeModal" tabindex="-1" role="dialog"
+      aria-labelledby="barcodeModalLabel" aria-hidden="false">
+      <div class="modal-dialog" role="document">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <h5 class="modal-title" id="barcodeModalLabel">Plugin Master Menu Barcode</h5>
+                  <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                      <span aria-hidden="false">&times;</span>
+                  </button>
+              </div>
+              <div class="modal-body">
+                  <!-- Informasi yang ingin Anda tambahkan -->
+                  <p>Plugin ini memberikan kemudahan dalam penyusunan laporan keuangan dan memungkinkan Anda untuk membuat keputusan yang lebih baik dalam pengelolaan keuangan Anda.</p>
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <div class="modal fade" id="golonganModal" tabindex="-1" role="dialog"
+  aria-labelledby="golonganModalLabel" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+      <div class="modal-content">
+          <div class="modal-header">
+              <h5 class="modal-title" id="golonganModalLabel">Plugin Master Menu Golongan Pinjaman</h5>
+              <button type="button" class="close" data-dismiss="modal" data-target="#golonganModal" aria-label="Close">
+                  <span aria-hidden="false">&times;</span>
+              </button>
+          </div>
+          <div class="modal-body">
+              <!-- Informasi yang ingin Anda tambahkan -->
+              <p>Plugin ini memungkinkan pengguna untuk dengan mudah mengintegrasikan berbagai opsi pembayaran dari berbagai bank dan penyedia layanan pembayaran dalam satu menu yang terstruktur, memberikan pengalaman belanja yang lebih nyaman bagi pelanggan. </p>
+          </div>
+      </div>
+  </div>
+</div>
+
+<div class="modal fade" id="kodeModal" tabindex="-1" role="dialog"
+aria-labelledby="kodeModalLabel" aria-hidden="false">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+      <div class="modal-header">
+          <h5 class="modal-title" id="kodeModalLabel">Plugin Master Menu Kode Transaksi Pinjaman</h5>
+          <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+              <span aria-hidden="false">&times;</span>
+          </button>
+      </div>
+      <div class="modal-body">
+          <!-- Informasi yang ingin Anda tambahkan -->
+          <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+      </div>
+  </div>
+</div>
+</div>
+
+
+
+          <section id="plugin-menu" class="plugin-menu">
+              <div class="container" data-aos="fade-up">
+                  <div class="section-header">
+                      <h2>Our Plugin Menu</h2>
+                  </div>
+
+                  <div class="grid-menu">
+                      <div class="row">
+                          <!-- Item 1 (Logo 1) -->
+                          <div class="col-md-3 grid-item">
+                              <div class="hidden-button">
+                                  <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 1"
+                                      class="small-logo" id="showModalButton">
+                              </div>
+                          </div>
+
+                          <script>
+                              document.getElementById("showModalButton").addEventListener("click", function() {
+                                  // Menampilkan modal ketika gambar diklik
+                                  $('#pluginMasterModal').modal('show');
+                              });
+                          </script>
+
+                          <!-- Item 2 (Logo 2) -->
+                          <div class="col-md-3 grid-item" data-toggle="modal" data-target="#barcodeModal">
+                              <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 2"
+                                  class="small-logo">
+                          </div>
+
+                          <!-- Item 3 (Logo 3) -->
+                          <div class="col-md-3 grid-item" data-toggle="modal" data-target="#golonganModal">
+                              <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 3"
+                                  class="small-logo">
+                          </div>
+
+                          <!-- Item 4 (Logo 4) -->
+                          <div class="col-md-3 grid-item" data-toggle="modal" data-target="#kodeModal">
+                              <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                                  class="small-logo">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </section>
+
+
+      </body>
+      </html>
 
 
   <!-- ======= Contact Section ======= -->
