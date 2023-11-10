@@ -441,6 +441,7 @@
           </style>
       </head>
       <body>
+          {{-- Route Modal Plugin --}}
           <script>
               document.addEventListener("DOMContentLoaded", function() {
                   // Function to set the size of the logos
@@ -513,7 +514,7 @@
           <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 
-          <!-- Modals -->
+          <!-- Modals Plugin-->
           <div class="modal fade" id="modal1" tabindex="-1" role="dialog"
               aria-labelledby="modal1Label" aria-hidden="false">
               <div class="modal-dialog" role="document">
