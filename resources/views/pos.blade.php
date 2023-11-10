@@ -465,22 +465,42 @@
               // Add click event listeners for each logo
               // Logo 1 (Plugin Master Menu Bank & E-Commerce)
               document.querySelector(".col-md-3.grid-item:nth-child(1)").addEventListener("click", function() {
-                  showModal("pluginMasterModal");
+                  showModal("modal1");
               });
 
               // Logo 2 (Plugin Master Barcode Form Add)
               document.querySelector(".col-md-3.grid-item:nth-child(2)").addEventListener("click", function() {
-                  showModal("barcodeModal");
+                  showModal("modal2");
               });
 
               // Logo 3 (Plugin Master Golongan Jaminan)
               document.querySelector(".col-md-3.grid-item:nth-child(3)").addEventListener("click", function() {
-                  showModal("golonganModal");
+                  showModal("modal3");
               });
 
               // Logo 4 (Plugin Master Kode Transaksi)
               document.querySelector(".col-md-3.grid-item:nth-child(4)").addEventListener("click", function() {
-                  showModal("kodeModal");
+                  showModal("modal4");
+              });
+
+              // Logo 5 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(5)").addEventListener("click", function() {
+                  showModal("modal5");
+              });
+
+              // Logo 6 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(6)").addEventListener("click", function() {
+                  showModal("modal6");
+              });
+
+              // Logo 7 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(7)").addEventListener("click", function() {
+                  showModal("modal7");
+              });
+
+              // Logo 8 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(8)").addEventListener("click", function() {
+                  showModal("modal8");
               });
 
               function closeModal(modalId) {
@@ -494,34 +514,30 @@
 
 
           <!-- Modals -->
-          <div class="modal fade" id="pluginMasterModal" tabindex="-1" role="dialog"
-              aria-labelledby="pluginMasterModalLabel" aria-hidden="false">
+          <div class="modal fade" id="modal1" tabindex="-1" role="dialog"
+              aria-labelledby="modal1Label" aria-hidden="false">
               <div class="modal-dialog" role="document">
                   <div class="modal-content">
                       <div class="modal-header">
-                          <h5 class="modal-title" id="pluginMasterModalLabel">Plugin Master Menu Bank & E-Commerce</h5>
-                          <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                          <h5 class="modal-title" id="modal1Label">Plugin Master Menu Bank & E-Commerce</h5>
+                          <button type="button" class="close" data-dismiss="modal" data-target="#modal1" aria-label="Close">
                               <span aria-hidden="false">&times;</span>
                           </button>
                       </div>
                       <div class="modal-body">
-                          <!-- Informasi yang ingin Anda tambahkan -->
                           <p>Plugin ini mendukung berbagai bank dan penyedia layanan pembayaran, mencakup beragam opsi seperti kartu kredit, transfer bank, e-wallet, dan banyak lagi.</p>
                       </div>
-                      {{-- <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                      </div> --}}
                   </div>
               </div>
           </div>
 
-          <div class="modal fade" id="barcodeModal" tabindex="-1" role="dialog"
-          aria-labelledby="barcodeModalLabel" aria-hidden="false">
+          <div class="modal fade" id="modal2" tabindex="-1" role="dialog"
+          aria-labelledby="modal2Label" aria-hidden="false">
           <div class="modal-dialog" role="document">
               <div class="modal-content">
                   <div class="modal-header">
-                      <h5 class="modal-title" id="barcodeModalLabel">Plugin Master Menu Barcode</h5>
-                      <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                      <h5 class="modal-title" id="modal2Label">Plugin Master Menu Barcode</h5>
+                      <button type="button" class="close" data-dismiss="modal" data-target="#modal1" aria-label="Close">
                           <span aria-hidden="false">&times;</span>
                       </button>
                   </div>
@@ -533,13 +549,13 @@
           </div>
       </div>
 
-      <div class="modal fade" id="barcodeModal" tabindex="-1" role="dialog"
-      aria-labelledby="barcodeModalLabel" aria-hidden="false">
+      <div class="modal fade" id="modal2" tabindex="-1" role="dialog"
+      aria-labelledby="modal2Label" aria-hidden="false">
       <div class="modal-dialog" role="document">
           <div class="modal-content">
               <div class="modal-header">
-                  <h5 class="modal-title" id="barcodeModalLabel">Plugin Master Menu Barcode</h5>
-                  <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                  <h5 class="modal-title" id="modal2Label">Plugin Master Menu Barcode</h5>
+                  <button type="button" class="close" data-dismiss="modal" data-target="#modal1" aria-label="Close">
                       <span aria-hidden="false">&times;</span>
                   </button>
               </div>
@@ -551,13 +567,13 @@
       </div>
   </div>
 
-  <div class="modal fade" id="golonganModal" tabindex="-1" role="dialog"
-  aria-labelledby="golonganModalLabel" aria-hidden="false">
+  <div class="modal fade" id="modal3" tabindex="-1" role="dialog"
+  aria-labelledby="modal3Label" aria-hidden="false">
   <div class="modal-dialog" role="document">
       <div class="modal-content">
           <div class="modal-header">
-              <h5 class="modal-title" id="golonganModalLabel">Plugin Master Menu Golongan Pinjaman</h5>
-              <button type="button" class="close" data-dismiss="modal" data-target="#golonganModal" aria-label="Close">
+              <h5 class="modal-title" id="modal3Label">Plugin Master Menu Golongan Pinjaman</h5>
+              <button type="button" class="close" data-dismiss="modal" data-target="#modal3" aria-label="Close">
                   <span aria-hidden="false">&times;</span>
               </button>
           </div>
@@ -569,70 +585,199 @@
   </div>
 </div>
 
-<div class="modal fade" id="kodeModal" tabindex="-1" role="dialog"
-aria-labelledby="kodeModalLabel" aria-hidden="false">
-<div class="modal-dialog" role="document">
-  <div class="modal-content">
-      <div class="modal-header">
-          <h5 class="modal-title" id="kodeModalLabel">Plugin Master Menu Kode Transaksi Pinjaman</h5>
-          <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
-              <span aria-hidden="false">&times;</span>
-          </button>
-      </div>
-      <div class="modal-body">
-          <!-- Informasi yang ingin Anda tambahkan -->
-          <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
-      </div>
+<div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="modal4Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal4Label">Plugin Master Menu Kode Transaksi Pinjaman</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
   </div>
 </div>
+
+<div class="modal fade" id="modal5" tabindex="-1" role="dialog" aria-labelledby="modal5Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal5Label">Plugin 5</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal6" tabindex="-1" role="dialog" aria-labelledby="modal6Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal6Label">Plugin 6</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal7" tabindex="-1" role="dialog" aria-labelledby="modal7Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal7Label">Plugin 7</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal8" tabindex="-1" role="dialog" aria-labelledby="modal8Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal8Label">Plugin 8</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
 </div>
 
 
 
-          <section id="plugin-menu" class="plugin-menu">
-              <div class="container" data-aos="fade-up">
-                  <div class="section-header">
-                      <h2>Our Plugin Menu</h2>
-                  </div>
+<section id="plugin-menu" class="plugin-menu">
+  <div class="container" data-aos="fade-up">
+      <div class="section-header">
+          <h2>Our Plugin Menu</h2>
+      </div>
 
-                  <div class="grid-menu">
-                      <div class="row">
-                          <!-- Item 1 (Logo 1) -->
-                          <div class="col-md-3 grid-item">
-                              <div class="hidden-button">
-                                  <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 1"
-                                      class="small-logo" id="showModalButton">
-                              </div>
-                          </div>
+      <div id="carouselExample" class="carousel slide text-center" data-ride="carousel">
+          <div class="carousel-inner">
+              <!-- Slide 1 -->
+              <div class="carousel-item active">
+                  <div class="row">
+                      <!-- Item 1 (Logo 1) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 1"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal1">
+                      </div>
 
-                          <script>
-                              document.getElementById("showModalButton").addEventListener("click", function() {
-                                  // Menampilkan modal ketika gambar diklik
-                                  $('#pluginMasterModal').modal('show');
-                              });
-                          </script>
+                      <!-- Item 2 (Logo 2) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 2"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal2">
+                      </div>
 
-                          <!-- Item 2 (Logo 2) -->
-                          <div class="col-md-3 grid-item" data-toggle="modal" data-target="#barcodeModal">
-                              <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 2"
-                                  class="small-logo">
-                          </div>
+                      <!-- Item 3 (Logo 3) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 3"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal3">
+                      </div>
 
-                          <!-- Item 3 (Logo 3) -->
-                          <div class="col-md-3 grid-item" data-toggle="modal" data-target="#golonganModal">
-                              <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 3"
-                                  class="small-logo">
-                          </div>
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
 
-                          <!-- Item 4 (Logo 4) -->
-                          <div class="col-md-3 grid-item" data-toggle="modal" data-target="#kodeModal">
-                              <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
-                                  class="small-logo">
-                          </div>
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
+
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
+
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
+
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
                       </div>
                   </div>
               </div>
-          </section>
+
+              <!-- Slide 2 -->
+              <div class="carousel-item">
+                  <div class="row">
+                      <!-- Item 5 (Logo 5) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 5"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal5">
+                      </div>
+
+                      <!-- Item 6 (Logo 6) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 6"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal6">
+                      </div>
+
+                      <!-- Item 7 (Logo 7) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 7"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal7">
+                      </div>
+
+                      <!-- Item 8 (Logo 8) -->
+                      <div class="col-sm">
+                          <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 8"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal8">
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <!-- Previous and Next Buttons with Adjusted Padding -->
+          <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev" style="color: black; left: -10%;">
+              <span class="carousel-control-prev-icon" aria-hidden="true" style="filter: invert(100%);"></span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next" style="color: black; right: -10%;">
+              <span class="carousel-control-next-icon" aria-hidden="true" style="filter: invert(100%);"></span>
+          </a>
+      </div>
+  </div>
+</section>
+
+
+
+
+
 
 
       </body>
