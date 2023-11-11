@@ -84,28 +84,25 @@
 
 
   <!-- ======= Counts Section ======= -->
-  <section id="counts" class="counts">
+  <section id="counts" class="counts" style="display: flex; align-items: center; justify-content: center;">
     <div class="container">
-
-      <div class="row counters">
-
+      <div class="row counters justify-content-center">
         <div class="col-lg-4 col-7 text-center">
           <span data-purecounter-start="0" data-purecounter-end="14800" data-purecounter-duration="1" class="purecounter"></span>
           <p>Pengusaha</p>
         </div>
-
         <div class="col-lg-4 col-7 text-center">
           <span data-purecounter-start="0" data-purecounter-end="347" data-purecounter-duration="1" class="purecounter"></span>
           <p>Kota/Kabupaten</p>
         </div>
-
         <div class="col-lg-4 col-7 text-center">
           <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1" class="purecounter"></span>
           <p>Bidang Usaha</p>
         </div>
       </div>
-  </section><!-- End Counts Section -->
-
+    </div>
+  </section>
+  
   <!-- ======= Services Section ======= -->
   <section id="services" class="services section-bg">
     <div class="container" data-aos="fade-up">

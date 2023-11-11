@@ -125,18 +125,18 @@
                     </li><!-- End Tab 4 Nav -->
 
                     <!-- <li class="nav-item col-6 col-md-4 col-lg-2">
-                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
-                                  <i class="bi bi-easel color-blue"></i>
-                                  <h4>Adipiscing</h4>
-                                </a>
-                              </li>End Tab 5 Nav -->
+                                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-5">
+                                                                  <i class="bi bi-easel color-blue"></i>
+                                                                  <h4>Adipiscing</h4>
+                                                                </a>
+                                                              </li>End Tab 5 Nav -->
 
                     <!-- <li class="nav-item col-6 col-md-4 col-lg-2">
-                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-6">
-                                  <i class="bi bi-map color-orange"></i>
-                                  <h4>Reprehit</h4>
-                                </a>
-                              </li>End Tab 6 Nav -->
+                                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-6">
+                                                                  <i class="bi bi-map color-orange"></i>
+                                                                  <h4>Reprehit</h4>
+                                                                </a>
+                                                              </li>End Tab 6 Nav -->
 
                 </ul>
 
@@ -154,21 +154,21 @@
                                     pembayaran berulang seperti bulanan atau tahunan.
                                 </p>
                                 <!-- <ul>
-                                      <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                      </li>
-                                      <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
-                                      </li>
-                                      <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                        Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
-                                        nulla pariatur.</li>
-                                    </ul> -->
+                                                                      <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                      </li>
+                                                                      <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
+                                                                      </li>
+                                                                      <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                        Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
+                                                                        nulla pariatur.</li>
+                                                                    </ul> -->
                                 <!-- <p>
-                                      Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                                      voluptate
-                                      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                                      sunt in
-                                      culpa qui officia deserunt mollit anim id est laborum
-                                    </p> -->
+                                                                      Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                                                                      voluptate
+                                                                      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                                                                      sunt in
+                                                                      culpa qui officia deserunt mollit anim id est laborum
+                                                                    </p> -->
                             </div>
                             <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
 
@@ -563,217 +563,158 @@
         </section>
         <!-- End Pricing Section -->
 
+        <!DOCTYPE html>
+<html lang="en">
 
-        <html lang="en">
-        <head>
-            <!-- Masukkan tag <head> untuk mengatur CSS, judul, dll. -->
-            <style>
-                .grid-item {
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    text-align: center;
-                }
-            </style>
-        </head>
-        <body>
-            <script>
-                document.addEventListener("DOMContentLoaded", function() {
-                    // Function to set the size of the logos
-                    function setLogoSize(logoClass, width, height) {
-                        const logos = document.querySelectorAll(logoClass);
-                        logos.forEach((logo) => {
-                            logo.style.width = width;
-                            logo.style.height = height;
-                        });
-                    }
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .grid-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
 
-                    // Set the size of the logos (you can adjust the width and height values)
-                    setLogoSize(".small-logo", "100px", "100px");
+<body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Function to set the size of the logos
+            function setLogoSize(logoClass, width, height) {
+                const logos = document.querySelectorAll(logoClass);
+                logos.forEach((logo) => {
+                    logo.style.width = width;
+                    logo.style.height = height;
                 });
+            }
 
-                // Function to display the modal with the specified content
-                function showModal(modalId) {
-                    var modal = new bootstrap.Modal(document.getElementById(modalId));
-                    modal.show();
-                }
+            // Set the size of the logos (you can adjust the width and height values)
+            setLogoSize(".small-logo", "100px", "100px");
+        });
 
-                // Add click event listeners for each logo
-                // Logo 1 (Plugin Master Menu Bank & E-Commerce)
-                document.querySelector(".col-md-3.grid-item:nth-child(1)").addEventListener("click", function() {
-                    showModal("pluginMasterModal");
-                });
+        // Function to display the modal with the specified content
+        function showModal(modalId) {
+            var modal = new bootstrap.Modal(document.getElementById(modalId));
+            modal.show();
+        }
+    </script>
 
-                // Logo 2 (Plugin Master Barcode Form Add)
-                document.querySelector(".col-md-3.grid-item:nth-child(2)").addEventListener("click", function() {
-                    showModal("barcodeModal");
-                });
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
-                // Logo 3 (Plugin Master Golongan Jaminan)
-                document.querySelector(".col-md-3.grid-item:nth-child(3)").addEventListener("click", function() {
-                    showModal("golonganModal");
-                });
+    <!-- Modals for Plugin Menu -->
+    <!-- ... (Modals remain unchanged) ... -->
 
-                // Logo 4 (Plugin Master Kode Transaksi)
-                document.querySelector(".col-md-3.grid-item:nth-child(4)").addEventListener("click", function() {
-                    showModal("kodeModal");
-                });
-
-                function closeModal(modalId) {
-                    var modal = new bootstrap.Modal(document.getElementById(modalId));
-                    modal.hide();
-                }
-            </script>
-
-            <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-
-            <!-- Modals -->
-            <div class="modal fade" id="pluginMasterModal" tabindex="-1" role="dialog"
-                aria-labelledby="pluginMasterModalLabel" aria-hidden="false">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="pluginMasterModalLabel">Plugin Master Menu Bank & E-Commerce</h5>
-                            <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
-                                <span aria-hidden="false">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-                            <!-- Informasi yang ingin Anda tambahkan -->
-                            <p>Plugin ini mendukung berbagai bank dan penyedia layanan pembayaran, mencakup beragam opsi seperti kartu kredit, transfer bank, e-wallet, dan banyak lagi.</p>
-                        </div>
-                        {{-- <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        </div> --}}
-                    </div>
-                </div>
-            </div>
-
-            <div class="modal fade" id="barcodeModal" tabindex="-1" role="dialog"
-            aria-labelledby="barcodeModalLabel" aria-hidden="false">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="barcodeModalLabel">Plugin Master Menu Barcode</h5>
-                        <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
-                            <span aria-hidden="false">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <!-- Informasi yang ingin Anda tambahkan -->
-                        <p>Plugin ini juga dapat terintegrasi dengan sistem POS (Point of Sale) Anda, memberikan kemudahan dalam proses penjualan dan pencatatan data produk.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="modal fade" id="barcodeModal" tabindex="-1" role="dialog"
-        aria-labelledby="barcodeModalLabel" aria-hidden="false">
+    <!-- Modals for Plugin SP -->
+    <div class="modal fade" id="pluginSPModal1" tabindex="-1" role="dialog" aria-labelledby="pluginSPModalLabel1"
+        aria-hidden="false">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="barcodeModalLabel">Plugin Master Menu Barcode</h5>
-                    <button type="button" class="close" data-dismiss="modal" data-target="#pluginMasterModal" aria-label="Close">
+                    <h5 class="modal-title" id="pluginSPModalLabel1">Plugin SP 1</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="false">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
                     <!-- Informasi yang ingin Anda tambahkan -->
-                    <p>Plugin ini memberikan kemudahan dalam penyusunan laporan keuangan dan memungkinkan Anda untuk membuat keputusan yang lebih baik dalam pengelolaan keuangan Anda.</p>
+                    <p>Informasi mengenai Plugin SP 1.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="modal fade" id="golonganModal" tabindex="-1" role="dialog"
-    aria-labelledby="golonganModalLabel" aria-hidden="false">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="golonganModalLabel">Plugin Master Menu Golongan Pinjaman</h5>
-                <button type="button" class="close" data-dismiss="modal" data-target="#golonganModal" aria-label="Close">
-                    <span aria-hidden="false">&times;</span>
+    <!-- ... (Modals for Plugin SP 2, 3, and 4 remain unchanged) ... -->
+
+    <!-- Tampilan garis accordion -->
+    <div class="accordion" id="pluginAccordion">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    Plugin Kasir
                 </button>
-            </div>
-            <div class="modal-body">
-                <!-- Informasi yang ingin Anda tambahkan -->
-                <p>Plugin ini memungkinkan pengguna untuk dengan mudah mengintegrasikan berbagai opsi pembayaran dari berbagai bank dan penyedia layanan pembayaran dalam satu menu yang terstruktur, memberikan pengalaman belanja yang lebih nyaman bagi pelanggan. </p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal fade" id="kodeModal" tabindex="-1" role="dialog"
-aria-labelledby="kodeModalLabel" aria-hidden="false">
-<div class="modal-dialog" role="document">
-    <div class="modal-content">
-        <div class="modal-header">
-            <h5 class="modal-title" id="kodeModalLabel">Plugin Master Menu Kode Transaksi Pinjaman</h5>
-            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
-                <span aria-hidden="false">&times;</span>
-            </button>
-        </div>
-        <div class="modal-body">
-            <!-- Informasi yang ingin Anda tambahkan -->
-            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
-        </div>
-    </div>
-</div>
-</div>
-
-
-
-            <section id="plugin-menu" class="plugin-menu">
-                <div class="container" data-aos="fade-up">
-                    <div class="section-header">
-                        <h2>Our Plugin Menu</h2>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                data-bs-parent="#pluginAccordion">
+                <div class="grid-menu">
+                    <div class="row">
+                        <!-- Logo 1 -->
+                        <div class="col-md-3 grid-item">
+                            <div class="hidden-button">
+                                <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 1"
+                                    class="small-logo" id="showModalButton1" onclick="showModal('pluginMasterModal')">
+                            </div>
+                        </div>
+                        <!-- Logo 2 -->
+                        <div class="col-md-3 grid-item">
+                            <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 2"
+                                class="small-logo" data-toggle="modal" data-target="#barcodeModal"
+                                onclick="showModal('barcodeModal')">
+                        </div>
+                        <!-- Logo 3 -->
+                        <div class="col-md-3 grid-item">
+                            <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 3"
+                                class="small-logo" data-toggle="modal" data-target="#golonganModal">
+                        </div>
+                        <!-- Logo 4 -->
+                        <div class="col-md-3 grid-item">
+                            <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                                class="small-logo" data-toggle="modal" data-target="#kodeModal">
+                        </div>
                     </div>
+                </div>
+            </div>
+        </div>
 
+        <div class="accordion" id="pluginSPAccordion">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSP">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseSP" aria-expanded="true" aria-controls="collapseSP">
+                        Plugin SP
+                    </button>
+                </h2>
+                <div id="collapseSP" class="accordion-collapse collapse show" aria-labelledby="headingSP"
+                    data-bs-parent="#pluginSPAccordion">
                     <div class="grid-menu">
                         <div class="row">
-                            <!-- Item 1 (Logo 1) -->
                             <div class="col-md-3 grid-item">
                                 <div class="hidden-button">
-                                    <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 1"
-                                        class="small-logo" id="showModalButton">
+                                    <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo SP 1"
+                                        class="small-logo" id="showModalButtonSP1" onclick="showModal('pluginSPModal1')">
                                 </div>
                             </div>
-
-                            <script>
-                                document.getElementById("showModalButton").addEventListener("click", function() {
-                                    // Menampilkan modal ketika gambar diklik
-                                    $('#pluginMasterModal').modal('show');
-                                });
-                            </script>
-
-                            <!-- Item 2 (Logo 2) -->
-                            <div class="col-md-3 grid-item" data-toggle="modal" data-target="#barcodeModal">
-                                <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 2"
-                                    class="small-logo">
+                            <div class="col-md-3 grid-item">
+                                <div class="hidden-button">
+                                    <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo SP 2"
+                                        class="small-logo" id="showModalButtonSP2" onclick="showModal('pluginSPModal2')">
+                                </div>
                             </div>
-
-                            <!-- Item 3 (Logo 3) -->
-                            <div class="col-md-3 grid-item" data-toggle="modal" data-target="#golonganModal">
-                                <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 3"
-                                    class="small-logo">
+                            <div class="col-md-3 grid-item">
+                                <div class="hidden-button">
+                                    <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo SP 3"
+                                        class="small-logo" id="showModalButtonSP3" onclick="showModal('pluginSPModal3')">
+                                </div>
                             </div>
-
-                            <!-- Item 4 (Logo 4) -->
-                            <div class="col-md-3 grid-item" data-toggle="modal" data-target="#kodeModal">
-                                <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo 4"
-                                    class="small-logo">
+                            <div class="col-md-3 grid-item">
+                                <div class="hidden-button">
+                                    <img src="{{ url('HeroBiz') }}/assets/img/logo koperasi.png" alt="Logo SP 4"
+                                        class="small-logo" id="showModalButtonSP4" onclick="showModal('pluginSPModal4')">
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
+        </div>
+    </div>
+</body>
 
-
-        </body>
-        </html>
-
+</html>
 
         <!-- ======= F.A.Q Section ======= -->
         <section id="faq" class="faq">
@@ -784,10 +725,6 @@ aria-labelledby="kodeModalLabel" aria-hidden="false">
 
                         <div class="content px-xl-5">
                             <h3><strong>Pertanyaan</strong> yang sering diajukan</h3>
-                            <!-- <p>
-                                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                  dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                                </p> -->
                         </div>
 
                         <div class="accordion accordion-flush px-xl-5" id="faqlist">

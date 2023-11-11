@@ -20,3 +20,9 @@ Route::get('/sp', [spController::class, 'index'])->name('sp');
 Route::get('/pos', [posController::class, 'index'])->name('pos');
 
 Route::get('/landing', [landingController::class, 'index'])->name('landing');
+
+Route::get('/sitemap.xml', function () {
+    $path = public_path('public/sitemap.xml'); // Sesuaikan dengan path ke file sitemap.xml Anda
+    return response()->file($path);
+})->name('sitemap');
+
